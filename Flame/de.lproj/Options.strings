@@ -3,27 +3,27 @@
 <plist version="1.0">
 <dict>
 		<key>OPTIONS</key>
-		<string>Options</string>
+		<string>Optionen</string>
 
 		<key>APPLY_SETTINGS</key>
-		<string>Apply Settings</string>
+		<string>Einstellungen übernehmen</string>
 		<key>APPLY_FOOTER</key>
-		<string>Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.</string>
+		<string>Die meisten Einstellungen werden sofort übernommen, einige jedoch erfordern einen Neustart von Cydia.</string>
 
 		<key>TIMEOUT</key>
 		<string>Timeout</string>
 		<key>TIMEOUT_FOOTER</key>
-		<string>Force Cydia to only spend a specified number of seconds trying to refresh each source.</string>
+		<string>Gibt die Dauer in Sekunden an, während der Cydia versucht, eine Quelle zu aktualisieren.</string>
 
 		<key>ENABLE_TIMEOUT</key>
 		<string>Enable Timeout</string>
 		<key>SECONDS</key>
-		<string>Seconds:</string>
+		<string>Sekunden:</string>
 
 		<key>CUSTOMIZE_CYDIA</key>
 		<string>Customize Cydia</string>
 		<key>CUSTOMIZE_CYDIA_FOOTER</key>
-		<string>Remove Ads - Remove the ads that are displayed on the home page of Cydia.
+		<string>Werbung entfernen - Entfernt die Werbung, die auf der Startseite von Cydia angezeigt wird.
 
 Cancel Button - Adds cancel button to Search tab.</string>
 
@@ -38,19 +38,19 @@ Cancel Button - Adds cancel button to Search tab.</string>
 		<key>TABBAR_COLOR</key>
 		<string>Tab Bar Color:</string>
 		<key>REMOVE_ADS</key>
-		<string>Remove Ads</string>
+		<string>Werbung entfernen</string>
 		<key>ENABLE_CANCEL_BUTTON</key>
 		<string>Enable Cancel Button</string>
 
 		<key>INSTALL_SCREEN</key>
-		<string>Install Screen</string>
+		<string>Installationsbildschirm</string>
 
 		<key>REMOVE_BORDER</key>
-		<string>Remove Border</string>
+		<string>Rahmen entfernen</string>
 		<key>BORDER_COLOR</key>
-		<string>Border Color:</string>
+		<string>Rahmenfarbe:</string>
 		<key>BACKGROUND_COLOR</key>
-		<string>Background Color:</string>
+		<string>Hintergrundfarbe:</string>
 
 		<key>POST_INSTALL</key>
 		<string>Post Install</string>
@@ -60,9 +60,9 @@ Cancel Button - Adds cancel button to Search tab.</string>
 		<key>ENABLE_VIBRATE</key>
 		<string>Enable Vibrate</string>
 		<key>ENABLE_AUTOFINISH</key>
-		<string>Enable Auto Finish</string>		
+		<string>Automatischen Abschluss aktivieren</string>		
 
 		<key>SAVE</key>
-		<string>Save</string>
+		<string>Speichern</string>
 </dict>
 </plist>
