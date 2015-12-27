@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+		<key>OPTIONS</key>
+		<string>Options</string>
+
+		<key>APPLY_SETTINGS</key>
+		<string>Apply Settings</string>
+		<key>APPLY_FOOTER</key>
+		<string>Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.</string>
+
+		<key>TIMEOUT</key>
+		<string>Timeout</string>
+		<key>TIMEOUT_FOOTER</key>
+		<string>Force Cydia to only spend a specified number of seconds trying to refresh each source.</string>
+
+		<key>ENABLE_TIMEOUT</key>
+		<string>Enable Timeout</string>
+		<key>SECONDS</key>
+		<string>Seconds:</string>
+
+		<key>CUSTOMIZE_CYDIA</key>
+		<string>Customize Cydia</string>
+		<key>CUSTOMIZE_CYDIA_FOOTER</key>
+		<string>Remove Ads - Remove the ads that are displayed on the home page of Cydia.
+
+Cancel Button - Adds cancel button to Search tab.</string>
+
+		<key>ENABLE_GLOBAL_TINT</key>
+		<string>Enable Global Tint</string>
+		<key>GLOBAL_TINT_COLOR</key>
+		<string>Global Tint Color:</string>
+		<key>NAVBAR_COLOR</key>
+		<string>Navbar Color:</string>
+		<key>TABBAR_SELECTED_COLOR</key>
+		<string>Tab Bar Selected Color:</string>
+		<key>TABBAR_COLOR</key>
+		<string>Tab Bar Color:</string>
+		<key>REMOVE_ADS</key>
+		<string>Remove Ads</string>
+		<key>ENABLE_CANCEL_BUTTON</key>
+		<string>Enable Cancel Button</string>
+
+		<key>INSTALL_SCREEN</key>
+		<string>Install Screen</string>
+
+		<key>REMOVE_BORDER</key>
+		<string>Remove Border</string>
+		<key>BORDER_COLOR</key>
+		<string>Border Color:</string>
+		<key>BACKGROUND_COLOR</key>
+		<string>Background Color:</string>
+
+		<key>POST_INSTALL</key>
+		<string>Post Install</string>
+		<key>POST_INSTALL_FOOTER</key>
+		<string>Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.</string>
+
+		<key>ENABLE_VIBRATE</key>
+		<string>Enable Vibrate</string>
+		<key>ENABLE_AUTOFINISH</key>
+		<string>Enable Auto Finish</string>		
+
+		<key>SAVE</key>
+		<string>Save</string>
+</dict>
+</plist>
