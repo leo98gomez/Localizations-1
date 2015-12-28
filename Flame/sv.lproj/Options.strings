@@ -41,10 +41,14 @@ Cancel Button - Adds cancel button to Search tab.</string>
 		<string>Global Tint Color:</string>
 		<key>NAVBAR_COLOR</key>
 		<string>Navbar Color:</string>
+		<key>NAVBAR_TITLE_COLOR</key>
+		<string>Navbar Title Color:</string>
 		<key>TABBAR_SELECTED_COLOR</key>
 		<string>Tab Bar Selected Color:</string>
 		<key>TABBAR_COLOR</key>
 		<string>Tab Bar Color:</string>
+		<key>DARK_KEYBOARD</key>
+		<string>Dark Keyboard</string>
 		<key>REMOVE_ADS</key>
 		<string>Remove Ads</string>
 		<key>ENABLE_CANCEL_BUTTON</key>
@@ -53,9 +57,9 @@ Cancel Button - Adds cancel button to Search tab.</string>
 		<key>INSTALL_SCREEN</key>
 		<string>Install Screen</string>
 
-		<key>REMOVE_BORDER</key>
+		<key>REMOVE_BUTTON_BORDER</key>
 		<string>Remove Button Border</string>
-		<key>BORDER_COLOR</key>
+		<key>BUTTON_BORDER_COLOR</key>
 		<string>Button Border Color:</string>
 		<key>BACKGROUND_COLOR</key>
 		<string>Background Color:</string>
