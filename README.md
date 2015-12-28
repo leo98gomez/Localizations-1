@@ -12,5 +12,6 @@ Thank you very much!
 * None
 
 ###Incomplete
-* ms.lpoj
 * de.lpoj
+* he.lpoj - @Aranshavit
+* ms.lpoj - /u/redzrex
