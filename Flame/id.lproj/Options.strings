@@ -10,53 +10,55 @@
 		<key>APPLY_FOOTER</key>
 		<string>Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.</string>
 
+		<key>AUTO_REFRESH_HEADER</key>
+		<string>Auto Refresh</string>
+		<key>AUTO_REFRESH</key>
+		<string>Disable Auto Refresh</string>
+		<key>AUTO_REFRESH_FOOTER</key>
+		<string>Prevent Cydia from automatically refreshing.</string>
+
 		<key>TIMEOUT</key>
 		<string>Timeout</string>
-		<key>TIMEOUT_FOOTER</key>
-		<string>Force Cydia to only spend a specified number of seconds trying to refresh each source.</string>
-
-		<key>ENABLE_TIMEOUT</key>
-		<string>Enable Timeout</string>
 		<key>SECONDS</key>
 		<string>Seconds:</string>
+		<key>TIMEOUT_FOOTER</key>
+		<string>Force Cydia to only spend a specified number of seconds trying to refresh each source.</string>
 
 		<key>BATCH_ADD</key>
 		<string>Batch Add</string>
 		<key>BATCH_ADD_FOOTER</key>
 		<string>Add multiple repos at once by having them in your clipboard.</string>
 
-		<key>ENABLE_BATCH_ADD</key>
-		<string>Enable Batch Add</string>
-
-		<key>CUSTOMIZE_CYDIA</key>
-		<string>Customize Cydia</string>
-		<key>CUSTOMIZE_CYDIA_FOOTER</key>
-		<string>Remove Ads - Remove the ads that are displayed on the home page of Cydia.
-
-Cancel Button - Adds cancel button to Search tab.</string>
-
-		<key>ENABLE_GLOBAL_TINT</key>
-		<string>Enable Global Tint</string>
+		<key>CUSTOMIZE_UI_HEADER</key>
+		<string>Customize UI</string>
+		<key>GLOBAL_TINT</key>
+		<string>Global Tint</string>
 		<key>GLOBAL_TINT_COLOR</key>
 		<string>Global Tint Color:</string>
 		<key>NAVBAR_COLOR</key>
 		<string>Navbar Color:</string>
 		<key>NAVBAR_TITLE_COLOR</key>
 		<string>Navbar Title Color:</string>
-		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Tab Bar Selected Color:</string>
 		<key>TABBAR_COLOR</key>
 		<string>Tab Bar Color:</string>
+		<key>TABBAR_SELECTED_COLOR</key>
+		<string>Tab Bar Selected Color:</string>
 		<key>DARK_KEYBOARD</key>
 		<string>Dark Keyboard</string>
-		<key>REMOVE_ADS</key>
-		<string>Remove Ads</string>
-		<key>ENABLE_CANCEL_BUTTON</key>
-		<string>Enable Cancel Button</string>
+		<key>REMOVE_HOMEPAGE_ADS</key>
+		<string>Remove Homepage Ads</string>
 
-		<key>INSTALL_SCREEN</key>
+		<key>SEARCH_TAB_HEADER</key>
+		<string>Search Tab</string>
+		<key>CANCEL_BUTTON</key>
+		<string>Cancel Button</string>
+		<key>SWIPE_TO_DISMISS</key>
+		<string>Swipe to Dismiss</string>
+		<key>SEARCH_TAB_FOOTER</key>
+		<string>Swipe down to dismiss the keyboard.</string>
+
+		<key>INSTALL_SCREEN_HEADER</key>
 		<string>Install Screen</string>
-
 		<key>REMOVE_BUTTON_BORDER</key>
 		<string>Remove Button Border</string>
 		<key>BUTTON_BORDER_COLOR</key>
@@ -64,15 +66,14 @@ Cancel Button - Adds cancel button to Search tab.</string>
 		<key>BACKGROUND_COLOR</key>
 		<string>Background Color:</string>
 
-		<key>POST_INSTALL</key>
+		<key>POST_INSTALL_HEADER</key>
 		<string>Post Install</string>
+		<key>VIBRATE</key>
+		<string>Vibrate</string>
+		<key>AUTOFINISH</key>
+		<string>Auto Finish</string>
 		<key>POST_INSTALL_FOOTER</key>
 		<string>Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.</string>
-
-		<key>ENABLE_VIBRATE</key>
-		<string>Enable Vibrate</string>
-		<key>ENABLE_AUTOFINISH</key>
-		<string>Enable Auto Finish</string>		
 
 		<key>SAVE</key>
 		<string>Save</string>
