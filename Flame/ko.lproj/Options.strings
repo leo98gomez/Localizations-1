@@ -20,6 +20,14 @@
 		<key>SECONDS</key>
 		<string>Seconds:</string>
 
+		<key>BATCH_ADD</key>
+		<string>Batch Add</string>
+		<key>BATCH_ADD_FOOTER</key>
+		<string>Add multiple repos at once by having them in your clipboard.</string>
+
+		<key>ENABLE_BATCH_ADD</key>
+		<string>Enable Batch Add</string>
+
 		<key>CUSTOMIZE_CYDIA</key>
 		<string>Customize Cydia</string>
 		<key>CUSTOMIZE_CYDIA_FOOTER</key>
@@ -46,9 +54,9 @@ Cancel Button - Adds cancel button to Search tab.</string>
 		<string>Install Screen</string>
 
 		<key>REMOVE_BORDER</key>
-		<string>Remove Border</string>
+		<string>Remove Button Border</string>
 		<key>BORDER_COLOR</key>
-		<string>Border Color:</string>
+		<string>Button Border Color:</string>
 		<key>BACKGROUND_COLOR</key>
 		<string>Background Color:</string>
 
