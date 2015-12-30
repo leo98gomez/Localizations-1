@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 		<key>ENABLED</key>
-		<string>Enabled</string>
+		<string>Activat</string>
 
 		<key>OPTIONS</key>
-		<string>Options</string>
+		<string>Opcions</string>
 
 		<key>CREDITS</key>
-		<string>Credits</string>
+		<string>Crèdits</string>
 </dict>
 </plist>
