@@ -3,79 +3,79 @@
 <plist version="1.0">
 <dict>
 		<key>OPTIONS</key>
-		<string>Options</string>
+		<string>Opcions</string>
 
 		<key>APPLY_SETTINGS</key>
-		<string>Apply Settings</string>
+		<string>Aplicar configuració</string>
 		<key>APPLY_FOOTER</key>
-		<string>Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.</string>
+		<string>La majoria d'opcions es poden aplicar de seguina, però per alguns d'elles caldrà reiniciar el Cydia.</string>
 
 		<key>AUTO_REFRESH_HEADER</key>
-		<string>Auto Refresh</string>
+		<string>Refrescar automàticament</string>
 		<key>AUTO_REFRESH</key>
-		<string>Disable Auto Refresh</string>
+		<string>Desactivar el refrescar</string>
 		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Prevent Cydia from automatically refreshing.</string>
+		<string>Fer que el Cydia no refresqui automàticament.</string>
 
 		<key>TIMEOUT</key>
-		<string>Timeout</string>
+		<string>Temps d'espera</string>
 		<key>SECONDS</key>
-		<string>Seconds:</string>
+		<string>Segons:</string>
 		<key>TIMEOUT_FOOTER</key>
-		<string>Force Cydia to only spend a specified number of seconds trying to refresh each source.</string>
+		<string>Fer que el Cydia només intenti refrescar una font determinada durant un temps limitat.</string>
 
 		<key>BATCH_ADD</key>
-		<string>Batch Add</string>
+		<string>Afegir en grup</string>
 		<key>BATCH_ADD_FOOTER</key>
-		<string>Add multiple repos at once by having them in your clipboard.</string>
+		<string>Afegir més d'un repositori tenint-ne les adreces al porta-retalls.</string>
 
 		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>Customize UI</string>
+		<string>Personalitzar interfície</string>
 		<key>GLOBAL_TINT</key>
-		<string>Global Tint</string>
+		<string>Tint global</string>
 		<key>GLOBAL_TINT_COLOR</key>
-		<string>Global Tint Color:</string>
+		<string>Color de tint:</string>
 		<key>NAVBAR_COLOR</key>
-		<string>Navbar Color:</string>
+		<string>Color de la barra de navegació:</string>
 		<key>NAVBAR_TITLE_COLOR</key>
-		<string>Navbar Title Color:</string>
+		<string>Color del títol de navegació:</string>
 		<key>TABBAR_COLOR</key>
-		<string>Tab Bar Color:</string>
+		<string>Color de la barra de pestanyes:</string>
 		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Tab Bar Selected Color:</string>
+		<string>Color de la pestanya seleccionada:</string>
 		<key>DARK_KEYBOARD</key>
-		<string>Dark Keyboard</string>
+		<string>Teclat fosc</string>
 		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>Remove Homepage Ads</string>
+		<string>Treure anuncis de la pàgina d'inici</string>
 
 		<key>SEARCH_TAB_HEADER</key>
-		<string>Search Tab</string>
+		<string>Pestanya de cerca</string>
 		<key>CANCEL_BUTTON</key>
-		<string>Cancel Button</string>
+		<string>Butó de cancel·lar</string>
 		<key>SWIPE_TO_DISMISS</key>
-		<string>Swipe to Dismiss</string>
+		<string>Llicar per tancar</string>
 		<key>SEARCH_TAB_FOOTER</key>
-		<string>Swipe down to dismiss the keyboard.</string>
+		<string>Llica el dit avall per tancar el teclat.</string>
 
 		<key>INSTALL_SCREEN_HEADER</key>
-		<string>Install Screen</string>
+		<string>Pantalla d'instal·lació</string>
 		<key>REMOVE_BUTTON_BORDER</key>
-		<string>Remove Button Border</string>
+		<string>Desactivar la vora del botó</string>
 		<key>BUTTON_BORDER_COLOR</key>
-		<string>Button Border Color:</string>
+		<string>Color de la vora del botó:</string>
 		<key>BACKGROUND_COLOR</key>
-		<string>Background Color:</string>
+		<string>Color de fons:</string>
 
 		<key>POST_INSTALL_HEADER</key>
-		<string>Post Install</string>
+		<string>Després d'instal·lar</string>
 		<key>VIBRATE</key>
-		<string>Vibrate</string>
+		<string>Vibrar</string>
 		<key>AUTOFINISH</key>
-		<string>Auto Finish</string>
+		<string>Acabar automàticament</string>
 		<key>POST_INSTALL_FOOTER</key>
-		<string>Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.</string>
+		<string>Reinicia el SprinBoard o el dispositiu, o retorna a Cydia després d'un nombre de segons determinat.</string>
 
 		<key>SAVE</key>
-		<string>Save</string>
+		<string>Guardar</string>
 </dict>
 </plist>
