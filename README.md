@@ -12,8 +12,10 @@ Thank you very much!
 * None
 
 ###Incomplete
-* de.lproj
 * ca.lproj
+* de.lproj
+* es.lproj
 * he.lproj - @Aranshavit
 * hu.lproj - /u/benciikee
 * ms.lproj - /u/redzrex
+* nl.lproj

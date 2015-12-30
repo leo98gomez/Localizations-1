@@ -3,94 +3,79 @@
 <plist version="1.0">
 <dict>
 		<key>OPTIONS</key>
-		<string>Options</string>
+		<string>Opciones</string>
 
 		<key>APPLY_SETTINGS</key>
-		<string>Apply Settings</string>
+		<string>Aplicar configuración</string>
 		<key>APPLY_FOOTER</key>
-		<string>Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.</string>
-
-		<key>DEFAULT_PAGE</key>
-		<string>Default Page</string>
-		<key>HOME</key>
-		<string>Home</string>
-		<key>SOURCES</key>
-		<string>Sources</string>
-		<key>CHANGES</key>
-		<string>Changes</string>
-		<key>INSTALLED</key>
-		<string>Installed</string>
-		<key>SEARCH</key>
-		<string>Search</string>
-		<key>DEFAULT_PAGE_FOOTER</key>
-		<string>Set the default page that Cydia opens to.</string>
+		<string>La mayoría de opciones se pueden aplicar de seguida, pero para algunas es necesario reiniciar Cydia.</string>
 
 		<key>AUTO_REFRESH_HEADER</key>
-		<string>Auto Refresh</string>
+		<string>Refresco automático</string>
 		<key>AUTO_REFRESH</key>
-		<string>Disable Auto Refresh</string>
+		<string>Deshabilitar el refreso automático</string>
 		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Prevent Cydia from automatically refreshing.</string>
+		<string>Hacer que Cydia no refresque automáticamente.</string>
 
 		<key>TIMEOUT</key>
-		<string>Timeout</string>
+		<string>Tiempo de espera</string>
 		<key>SECONDS</key>
-		<string>Seconds:</string>
+		<string>Segundos:</string>
 		<key>TIMEOUT_FOOTER</key>
-		<string>Force Cydia to only spend a specified number of seconds trying to refresh each source.</string>
+		<string>Forzar Cydia a no estarse más de un determinado número de segundos refrescando cada fuente.</string>
 
 		<key>BATCH_ADD</key>
-		<string>Batch Add</string>
+		<string>Añadir múltiples</string>
 		<key>BATCH_ADD_FOOTER</key>
-		<string>Add multiple repos at once by having them in your clipboard.</string>
+		<string>Añadir más de un repositorio a la vez teniéndolos el portapapeles.</string>
 
 		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>Customize UI</string>
+		<string>Personalizar interfície</string>
 		<key>GLOBAL_TINT</key>
-		<string>Global Tint</string>
+		<string>Tinto global</string>
 		<key>GLOBAL_TINT_COLOR</key>
-		<string>Global Tint Color:</string>
+		<string>Color de tinto global:</string>
 		<key>NAVBAR_COLOR</key>
-		<string>Navbar Color:</string>
+		<string>Color de la barra de navegación:</string>
 		<key>NAVBAR_TITLE_COLOR</key>
-		<string>Navbar Title Color:</string>
+		<string>Color del título de navegación:</string>
 		<key>TABBAR_COLOR</key>
-		<string>Tab Bar Color:</string>
+		<string>Color de la barra de pestañas:</string>
 		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Tab Bar Selected Color:</string>
+		<string>Color de la pestaña seleccionada:</string>
 		<key>DARK_KEYBOARD</key>
-		<string>Dark Keyboard</string>
+		<string>Teclado oscuro</string>
 		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>Remove Homepage Ads</string>
+		<string>Eliminar anuncios de la página de inicio</string>
 
 		<key>SEARCH_TAB_HEADER</key>
-		<string>Search Tab</string>
+		<string>Pestaña de búsqueda</string>
 		<key>CANCEL_BUTTON</key>
-		<string>Cancel Button</string>
+		<string>Botón de cancelar</string>
 		<key>SWIPE_TO_DISMISS</key>
-		<string>Swipe to Dismiss</string>
+		<string>Arrastrar para cerrar</string>
 		<key>SEARCH_TAB_FOOTER</key>
-		<string>Swipe down to dismiss the keyboard.</string>
+		<string>Arrastrar el dedo abajo para cerrar el teclado.</string>
 
 		<key>INSTALL_SCREEN_HEADER</key>
-		<string>Install Screen</string>
+		<string>Pantalla de instalación</string>
 		<key>REMOVE_BUTTON_BORDER</key>
-		<string>Remove Button Border</string>
+		<string>Eliminar borde del botón</string>
 		<key>BUTTON_BORDER_COLOR</key>
-		<string>Button Border Color:</string>
+		<string>Color del borde del botón:</string>
 		<key>BACKGROUND_COLOR</key>
-		<string>Background Color:</string>
+		<string>Color de fondo:</string>
 
 		<key>POST_INSTALL_HEADER</key>
-		<string>Post Install</string>
+		<string>Después de instalar</string>
 		<key>VIBRATE</key>
-		<string>Vibrate</string>
+		<string>Vibrar</string>
 		<key>AUTOFINISH</key>
-		<string>Auto Finish</string>
+		<string>Acabar automáticamente</string>
 		<key>POST_INSTALL_FOOTER</key>
-		<string>Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.</string>
+		<string>Reinicia el SpringBoard o el dispositivo, o vuelve a Cydia después de un número de segundos determinado.</string>
 
 		<key>SAVE</key>
-		<string>Save</string>
+		<string>Guardar</string>
 </dict>
 </plist>

@@ -11,23 +11,23 @@
 		<string>La majoria d'opcions es poden aplicar de seguina, però per alguns d'elles caldrà reiniciar el Cydia.</string>
 
 		<key>AUTO_REFRESH_HEADER</key>
-		<string>Refrescar automàticament</string>
+		<string>Refresc automàtic</string>
 		<key>AUTO_REFRESH</key>
-		<string>Desactivar el refrescar</string>
+		<string>Desactivar el refresc automàtic</string>
 		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Fer que el Cydia no refresqui automàticament.</string>
+		<string>Fer que el Cydia no es refresqui automàticament.</string>
 
 		<key>TIMEOUT</key>
 		<string>Temps d'espera</string>
 		<key>SECONDS</key>
 		<string>Segons:</string>
 		<key>TIMEOUT_FOOTER</key>
-		<string>Fer que el Cydia només intenti refrescar una font determinada durant un temps limitat.</string>
+		<string>Forçar el Cydia a no estar-se més d'un determinat nombre de segons refrescant cada font.</string>
 
 		<key>BATCH_ADD</key>
 		<string>Afegir en grup</string>
 		<key>BATCH_ADD_FOOTER</key>
-		<string>Afegir més d'un repositori tenint-ne les adreces al porta-retalls.</string>
+		<string>Afegir més d'un repositori a la vegada tenint-los al porta-retalls.</string>
 
 		<key>CUSTOMIZE_UI_HEADER</key>
 		<string>Personalitzar interfície</string>
@@ -51,7 +51,7 @@
 		<key>SEARCH_TAB_HEADER</key>
 		<string>Pestanya de cerca</string>
 		<key>CANCEL_BUTTON</key>
-		<string>Butó de cancel·lar</string>
+		<string>Botó de cancel·lar</string>
 		<key>SWIPE_TO_DISMISS</key>
 		<string>Llicar per tancar</string>
 		<key>SEARCH_TAB_FOOTER</key>
@@ -60,7 +60,7 @@
 		<key>INSTALL_SCREEN_HEADER</key>
 		<string>Pantalla d'instal·lació</string>
 		<key>REMOVE_BUTTON_BORDER</key>
-		<string>Desactivar la vora del botó</string>
+		<string>Treure la vora del botó</string>
 		<key>BUTTON_BORDER_COLOR</key>
 		<string>Color de la vora del botó:</string>
 		<key>BACKGROUND_COLOR</key>
@@ -73,7 +73,7 @@
 		<key>AUTOFINISH</key>
 		<string>Acabar automàticament</string>
 		<key>POST_INSTALL_FOOTER</key>
-		<string>Reinicia el SprinBoard o el dispositiu, o retorna a Cydia després d'un nombre de segons determinat.</string>
+		<string>Reinicia el SpringBoard o el dispositiu, o retorna a Cydia després d'un nombre de segons determinat.</string>
 
 		<key>SAVE</key>
 		<string>Guardar</string>

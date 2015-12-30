@@ -3,94 +3,79 @@
 <plist version="1.0">
 <dict>
 		<key>OPTIONS</key>
-		<string>Options</string>
+		<string>Opties</string>
 
 		<key>APPLY_SETTINGS</key>
-		<string>Apply Settings</string>
+		<string>Instellingen toepassen</string>
 		<key>APPLY_FOOTER</key>
-		<string>Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.</string>
-
-		<key>DEFAULT_PAGE</key>
-		<string>Default Page</string>
-		<key>HOME</key>
-		<string>Home</string>
-		<key>SOURCES</key>
-		<string>Sources</string>
-		<key>CHANGES</key>
-		<string>Changes</string>
-		<key>INSTALLED</key>
-		<string>Installed</string>
-		<key>SEARCH</key>
-		<string>Search</string>
-		<key>DEFAULT_PAGE_FOOTER</key>
-		<string>Set the default page that Cydia opens to.</string>
+		<string>De meeste opties worden direct ingeschakeld, maar voor sommige moet Cydia opnieuw opgestart worden.</string>
 
 		<key>AUTO_REFRESH_HEADER</key>
-		<string>Auto Refresh</string>
+		<string>Automatisch verversen</string>
 		<key>AUTO_REFRESH</key>
-		<string>Disable Auto Refresh</string>
+		<string>Automatisch verversen uitschakelen</string>
 		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Prevent Cydia from automatically refreshing.</string>
+		<string>Laat Cydia niet automatisch verversen.</string>
 
 		<key>TIMEOUT</key>
-		<string>Timeout</string>
+		<string>Wachttijd</string>
 		<key>SECONDS</key>
-		<string>Seconds:</string>
+		<string>Seconden:</string>
 		<key>TIMEOUT_FOOTER</key>
-		<string>Force Cydia to only spend a specified number of seconds trying to refresh each source.</string>
+		<string>Laat Cydia maar een bepaald aantal seconden wachten bij het verversen van elke bron.</string>
 
 		<key>BATCH_ADD</key>
-		<string>Batch Add</string>
+		<string>Meerdere toevoegen</string>
 		<key>BATCH_ADD_FOOTER</key>
-		<string>Add multiple repos at once by having them in your clipboard.</string>
+		<string>Voeg meerdere repositories tegelijk toe door ze op het klembord the hebben.</string>
 
 		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>Customize UI</string>
+		<string>UI aanpassen</string>
 		<key>GLOBAL_TINT</key>
-		<string>Global Tint</string>
+		<string>Globale tint</string>
 		<key>GLOBAL_TINT_COLOR</key>
-		<string>Global Tint Color:</string>
+		<string>Globale tintkleur:</string>
 		<key>NAVBAR_COLOR</key>
-		<string>Navbar Color:</string>
+		<string>Navigatiebalkkleur:</string>
 		<key>NAVBAR_TITLE_COLOR</key>
-		<string>Navbar Title Color:</string>
+		<string>Navigatietitelkleur:</string>
 		<key>TABBAR_COLOR</key>
-		<string>Tab Bar Color:</string>
+		<string>Tabbalkkleur:</string>
 		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Tab Bar Selected Color:</string>
+		<string>Kleur van geselecteerd tabblad:</string>
 		<key>DARK_KEYBOARD</key>
-		<string>Dark Keyboard</string>
+		<string>Donker toetsenbord</string>
 		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>Remove Homepage Ads</string>
+		<string>Startpaginaadvertenties weghalen</string>
 
 		<key>SEARCH_TAB_HEADER</key>
-		<string>Search Tab</string>
+		<string>Zoektabblad</string>
 		<key>CANCEL_BUTTON</key>
-		<string>Cancel Button</string>
+		<string>Annuleerknop</string>
 		<key>SWIPE_TO_DISMISS</key>
-		<string>Swipe to Dismiss</string>
+		<string>Wegslepen</string>
 		<key>SEARCH_TAB_FOOTER</key>
-		<string>Swipe down to dismiss the keyboard.</string>
+		<string>Sleep met een vinger naar beneden om het toetsenbord te sluiten.</string>
 
 		<key>INSTALL_SCREEN_HEADER</key>
-		<string>Install Screen</string>
+		<string>Installatiescherm</string>
 		<key>REMOVE_BUTTON_BORDER</key>
-		<string>Remove Button Border</string>
+		<string>Knoprand weghalen</string>
 		<key>BUTTON_BORDER_COLOR</key>
-		<string>Button Border Color:</string>
+		<string>Knoprandkleur:</string>
 		<key>BACKGROUND_COLOR</key>
-		<string>Background Color:</string>
+		<string>Achtergrondkleur:</string>
 
 		<key>POST_INSTALL_HEADER</key>
-		<string>Post Install</string>
+		<string>Na de installatie</string>
 		<key>VIBRATE</key>
-		<string>Vibrate</string>
+		<string>Trillen</string>
 		<key>AUTOFINISH</key>
-		<string>Auto Finish</string>
+		<string>Automatisch voltooien</string>
 		<key>POST_INSTALL_FOOTER</key>
-		<string>Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.</string>
+		<string>Respringt, herstart, of gaat automatisch naar Cydia terug na een aantal seconden.</string>
 
 		<key>SAVE</key>
-		<string>Save</string>
+		<string>Opslaan</string>
 </dict>
 </plist>

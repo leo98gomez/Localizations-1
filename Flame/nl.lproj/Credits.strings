@@ -6,9 +6,9 @@
 		<string>Credits</string>
 
 		<key>EMAIL</key>
-		<string>Email</string>
+		<string>E-mail</string>
 
 		<key>DONATE</key>
-		<string>Donate</string>
+		<string>Doneren</string>
 </dict>
 </plist>

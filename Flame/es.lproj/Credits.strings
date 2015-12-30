@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 		<key>CREDITS</key>
-		<string>Credits</string>
+		<string>Créditos</string>
 
 		<key>EMAIL</key>
-		<string>Email</string>
+		<string>Correo electrónico</string>
 
 		<key>DONATE</key>
-		<string>Donate</string>
+		<string>Donar</string>
 </dict>
 </plist>
