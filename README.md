@@ -9,10 +9,11 @@ Thank you very much!
 ##Flame
 
 ###Completed
+* None
+
+###Incomplete
+* de.lproj
 * ca.lproj
 * he.lproj - @Aranshavit
 * hu.lproj - /u/benciikee
 * ms.lproj - /u/redzrex
-
-###Incomplete
-* de.lproj
