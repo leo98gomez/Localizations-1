@@ -11,7 +11,7 @@ Thank you very much!
 ###Completed
 * he.lproj - @Aranshavit
 * hu.lproj - /u/benciikee
+* ms.lproj - /u/redzrex
 
 ###Incomplete
 * de.lproj
-* ms.lproj - /u/redzrex
