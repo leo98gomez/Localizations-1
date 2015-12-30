@@ -9,9 +9,9 @@ Thank you very much!
 ##Flame
 
 ###Completed
-* None
+* he.lproj - /u/benciikee
 
 ###Incomplete
-* de.lpoj
-* he.lpoj - @Aranshavit
-* ms.lpoj - /u/redzrex
+* de.lproj
+* he.lproj - @Aranshavit
+* ms.lproj - /u/redzrex

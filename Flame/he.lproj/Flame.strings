@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 		<key>ENABLED</key>
-		<string>מופעל</string>
+		<string>Enged�lyez�s</string>
 
 		<key>OPTIONS</key>
-		<string>אופציות</string>
+		<string>Be�ll�t�sok</string>
 
 		<key>CREDITS</key>
-		<string>תודות</string>
+		<string>K�sz�t�k</string>
 </dict>
 </plist>
