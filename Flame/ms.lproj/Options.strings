@@ -10,57 +10,70 @@
 		<key>APPLY_FOOTER</key>
 		<string>Kebanyakkan pilihan boleh diubah secara langsung, tapi beberapa pilihan memerlukan Cydia dibuka semula untuk perubahan berlaku.</string>
 
+		<key>AUTO_REFRESH_HEADER</key>
+		<string>Refresh Sendiri</string>
+		<key>AUTO_REFRESH</key>
+		<string>Mansuhkan Refresh Sendiri</string>
+		<key>AUTO_REFRESH_FOOTER</key>
+		<string>Halang Cydia dari refresh dengan sendiri.</string>
+
 		<key>TIMEOUT</key>
 		<string>Masa tamat</string>
-		<key>TIMEOUT_FOOTER</key>
-		<string>Paksa Cydia untuk mengambil masa beberapa saat untuk cuba refresh setiap sumber.</string>
-
-		<key>ENABLE_TIMEOUT</key>
-		<string>Membolehkan Masa Tamat</string>
 		<key>SECONDS</key>
 		<string>Saat:</string>
+		<key>TIMEOUT_FOOTER</key>
+		<string>Paksa Cydia untuk mengambil masa beberapa saat untuk cuba refresh setiap sumber.</string>
+		
+		<key>BATCH_ADD</key>
+		<string>Tambah Kelompok</string>
+		<key>BATCH_ADD_FOOTER</key>
+		<string>Tambah beberapa repo dalam masa sekali dengan by having them in your clipboard.</string>
 
-		<key>CUSTOMIZE_CYDIA</key>
-		<string>Customize Cydia</string>
-		<key>CUSTOMIZE_CYDIA_FOOTER</key>
-		<string>Buang Ad - Buang ad yang dipaparkan pada muka rumah Cydia.
-
-Cancel Button - Adds cancel button to Search tab.</string>
-
-		<key>ENABLE_GLOBAL_TINT</key>
-		<string>Enable Global Tint</string>
+		<key>CUSTOMIZE_UI_HEADER</key>
+		<string>Ubah suai UI</string>
+		<key>GLOBAL_TINT</key>
+		<string>Semua Tint</string>
 		<key>GLOBAL_TINT_COLOR</key>
-		<string>Global Tint Color:</string>
+		<string>Semua Warna Tint:</string>
 		<key>NAVBAR_COLOR</key>
-		<string>Navbar Color:</string>
-		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Tab Bar Selected Color:</string>
+		<string>Warna Navbar:</string>
+		<key>NAVBAR_TITLE_COLOR</key>
+		<string>Warna Tajuk Navbar:</string>
 		<key>TABBAR_COLOR</key>
-		<string>Tab Bar Color:</string>
-		<key>REMOVE_ADS</key>
-		<string>Buang Ad</string>
-		<key>ENABLE_CANCEL_BUTTON</key>
-		<string>Enable Cancel Button</string>
-
-		<key>INSTALL_SCREEN</key>
+		<string>Warna Bar Tab:</string>
+		<key>TABBAR_SELECTED_COLOR</key>
+		<string>Warna Bar Tab Terpilih:</string>
+		<key>DARK_KEYBOARD</key>
+		<string>Kekunci Gelap</string>
+		<key>REMOVE_HOMEPAGE_ADS</key>
+		<string>Buang Ad MukaRumah</string>
+		
+		<key>SEARCH_TAB_HEADER</key>
+		<string>Tab Carian</string>
+		<key>CANCEL_BUTTON</key>
+		<string>Butang Batal</string>
+		<key>SWIPE_TO_DISMISS</key>
+		<string>Sapu untuk Tamat</string>
+		<key>SEARCH_TAB_FOOTER</key>
+		<string>Sapu bawah untuk sorokkan kekunci.</string>
+		
+		<key>INSTALL_SCREEN_HEADER</key>
 		<string>Skrin Pemasangan</string>
-
-		<key>REMOVE_BORDER</key>
-		<string>Buang Sempadan</string>
-		<key>BORDER_COLOR</key>
-		<string>Warna Sempadan:</string>
+		<key>REMOVE_BUTTON_BORDER</key>
+		<string>Buang Dinding Butang</string>
+		<key>BUTTON_BORDER_COLOR</key>
+		<string>Warna Dinding Butang:</string>
 		<key>BACKGROUND_COLOR</key>
-		<string>BWarna Latar Belakang:</string>
+		<string>Warna Latar:</string>
 
-		<key>POST_INSTALL</key>
-		<string>Post Install</string>
+		<key>POST_INSTALL_HEADER</key>
+		<string>Selepas Pemasangan</string>
+		<key>VIBRATE</key>
+		<string>Bergetar</string>
+		<key>AUTOFINISH</key>
+		<string>Habiskan Terus</string>
 		<key>POST_INSTALL_FOOTER</key>
-		<string>Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.</string>
-
-		<key>ENABLE_VIBRATE</key>
-		<string>Enable Vibrate</string>
-		<key>ENABLE_AUTOFINISH</key>
-		<string>Membolehkan Terus Selesai</string>		
+		<string>Terus resprings, reboots, atau kembali ke Cydia selepas saat yang ditetapkan.</string>		
 
 		<key>SAVE</key>
 		<string>Simpan</string>
