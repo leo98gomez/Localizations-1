@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+		<key>OPTIONS</key>
+		<string>Beállítások</string>
+
+		<key>APPLY_SETTINGS</key>
+		<string>Beállítások Alkalmazása</string>
+		<key>APPLY_FOOTER</key>
+		<string>A legtöbb beállítás egybõl érvényesül, de néhányhoz újra kell indítani a Cydia-t.</string>
+
+		<key>AUTO_REFRESH_HEADER</key>
+		<string>Automatikus frissítés</string>
+		<key>AUTO_REFRESH</key>
+		<string>Automatikus Frissítés Kikapcsolás</string>
+		<key>AUTO_REFRESH_FOOTER</key>
+		<string>Automatikus Frissítés tiltása a Cydia-ban.</string>
+
+		<key>TIMEOUT</key>
+		<string>Frissítési idõ</string>
+		<key>SECONDS</key>
+		<string>Másodperc:</string>
+		<key>TIMEOUT_FOOTER</key>
+		<string>A Cydia kényszerítése arra, hogy csak a megadott idõ alatt próbálja frissíteni a forrásokat.</string>
+
+		<key>BATCH_ADD</key>
+		<string>Többszörös hozzáadás</string>
+		<key>BATCH_ADD_FOOTER</key>
+		<string>Több repo hozzáadása egyszerre a vágólapról.</string>
+
+		<key>CUSTOMIZE_UI_HEADER</key>
+		<string>Felület Testreszabás</string>
+		<key>GLOBAL_TINT</key>
+		<string>Általános árnyalat</string>
+		<key>GLOBAL_TINT_COLOR</key>
+		<string>Általános árnyalat színe:</string>
+		<key>NAVBAR_COLOR</key>
+		<string>Felület színe:</string>
+		<key>NAVBAR_TITLE_COLOR</key>
+		<string>Felületi cím színe:</string>
+		<key>TABBAR_COLOR</key>
+		<string>Fülek Sávjának színe:</string>
+		<key>TABBAR_SELECTED_COLOR</key>
+		<string>Fülek Sávjának kiválasztott színe:</string>
+		<key>DARK_KEYBOARD</key>
+		<string>Sötét billentyûzet</string>
+		<key>REMOVE_HOMEPAGE_ADS</key>
+		<string>Kezdõlapi hirdetések eltávolítása</string>
+
+		<key>SEARCH_TAB_HEADER</key>
+		<string>Keresés fül</string>
+		<key>CANCEL_BUTTON</key>
+		<string>Mégse gomb</string>
+		<key>SWIPE_TO_DISMISS</key>
+		<string>Elvetés csúsztatással</string>
+		<key>SEARCH_TAB_FOOTER</key>
+		<string>Csúsztass lefelé, hogy eltûnjön a billentyûzet.</string>
+
+		<key>INSTALL_SCREEN_HEADER</key>
+		<string>Telepítési képernyõ</string>
+		<key>REMOVE_BUTTON_BORDER</key>
+		<string>Gomb keret eltûntetés</string>
+		<key>BUTTON_BORDER_COLOR</key>
+		<string>Gomb keret színe:</string>
+		<key>BACKGROUND_COLOR</key>
+		<string>Háttér színe:</string>
+
+		<key>POST_INSTALL_HEADER</key>
+		<string>Telepítési folyamat</string>
+		<key>VIBRATE</key>
+		<string>Vibrálás</string>
+		<key>AUTOFINISH</key>
+		<string>Automatikus Befejezés</string>
+		<key>POST_INSTALL_FOOTER</key>
+		<string>Automatikusan respringel, újraindul, vagy visszatér a Cydia-ba a megadott idõ után.</string>
+
+		<key>SAVE</key>
+		<string>Mentés</string>
+</dict>
+</plist>

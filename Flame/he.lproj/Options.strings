@@ -3,79 +3,79 @@
 <plist version="1.0">
 <dict>
 		<key>OPTIONS</key>
-		<string>Be�ll�t�sok</string>
+		<string>אופציות</string>
 
 		<key>APPLY_SETTINGS</key>
-		<string>Be�ll�t�sok Alkalmaz�sa</string>
+		<string>החל הגדרות</string>
 		<key>APPLY_FOOTER</key>
-		<string>A legt�bb be�ll�t�s egyb�l �rv�nyes�l, de n�h�nyhoz �jra kell ind�tani a Cydia-t.</string>
+		<string>את רוב האופציות ניתן להפעיל בלי ריענון, אך חלק מהן דורשות לרענן את סידיה כדי להפעיל.</string>
 
 		<key>AUTO_REFRESH_HEADER</key>
-		<string>Automatikus friss�t�s</string>
+		<string>ריענון אוטומטי</string>
 		<key>AUTO_REFRESH</key>
-		<string>Automatikus Friss�t�s Kikapcsol�s</string>
+		<string>כבה ריענון אוטומטי</string>
 		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Automatikus Friss�t�s tilt�sa a Cydia-ban.</string>
+		<string>מונע מסידיה לרענן אוטומטית.</string>
 
 		<key>TIMEOUT</key>
-		<string>Friss�t�si id�</string>
+		<string>הגבלת זמן</string>
 		<key>SECONDS</key>
-		<string>M�sodperc:</string>
+		<string>שניות:</string>
 		<key>TIMEOUT_FOOTER</key>
-		<string>A Cydia k�nyszer�t�se arra, hogy csak a megadott id� alatt pr�b�lja friss�teni a forr�sokat.</string>
+		<string>מכריח את סידיה לאפשר רק מספר שניות מוגדר לרענון כל מקור.</string>
 
 		<key>BATCH_ADD</key>
-		<string>T�bbsz�r�s hozz�ad�s</string>
+		<string>הוספה מרובה</string>
 		<key>BATCH_ADD_FOOTER</key>
-		<string>T�bb repo hozz�ad�sa egyszerre a v�g�lapr�l.</string>
+		<string>מוסיף מספר מקורות בבת אחת בכך שהם מועתקים מראש.</string>
 
 		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>Fel�let Testreszab�s</string>
+		<string>התאם אישית ממשק</string>
 		<key>GLOBAL_TINT</key>
-		<string>�ltal�nos �rnyalat</string>
+		<string>גוון גלובלי</string>
 		<key>GLOBAL_TINT_COLOR</key>
-		<string>�ltal�nos �rnyalat sz�ne:</string>
+		<string>צבע גוון גלובלי:</string>
 		<key>NAVBAR_COLOR</key>
-		<string>Fel�let sz�ne:</string>
+		<string>צבע שורת ניווט:</string>
 		<key>NAVBAR_TITLE_COLOR</key>
-		<string>Fel�leti c�m sz�ne:</string>
+		<string>צבע כותרת שורת ניווט:</string>
 		<key>TABBAR_COLOR</key>
-		<string>F�lek S�vj�nak sz�ne:</string>
+		<string>צבע שורת כרטיסיות:</string>
 		<key>TABBAR_SELECTED_COLOR</key>
-		<string>F�lek S�vj�nak kiv�lasztott sz�ne:</string>
+		<string>צבע בחירה בשורת כרטיסיות:</string>
 		<key>DARK_KEYBOARD</key>
-		<string>S�t�t billenty�zet</string>
+		<string>מקלדת שחורה</string>
 		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>Kezd�lapi hirdet�sek elt�vol�t�sa</string>
+		<string>הסר מודעות ממסך הבית</string>
 
 		<key>SEARCH_TAB_HEADER</key>
-		<string>Keres�s f�l</string>
+		<string>כרטיסיית החיפוש</string>
 		<key>CANCEL_BUTTON</key>
-		<string>M�gse gomb</string>
+		<string>כפתור ביטול</string>
 		<key>SWIPE_TO_DISMISS</key>
-		<string>Elvet�s cs�sztat�ssal</string>
+		<string>החלק להסתרה</string>
 		<key>SEARCH_TAB_FOOTER</key>
-		<string>Cs�sztass lefel�, hogy elt�nj�n a billenty�zet.</string>
+		<string>החלקה למטה מסתירה את המקלדת.</string>
 
 		<key>INSTALL_SCREEN_HEADER</key>
-		<string>Telep�t�si k�perny�</string>
+		<string>מסך התקנה</string>
 		<key>REMOVE_BUTTON_BORDER</key>
-		<string>Gomb keret elt�ntet�s</string>
+		<string>הסר מסגרת כפתור</string>
 		<key>BUTTON_BORDER_COLOR</key>
-		<string>Gomb keret sz�ne:</string>
+		<string>צבע מסגרת כפתור:</string>
 		<key>BACKGROUND_COLOR</key>
-		<string>H�tt�r sz�ne:</string>
+		<string>צבע רקע:</string>
 
 		<key>POST_INSTALL_HEADER</key>
-		<string>Telep�t�si folyamat</string>
+		<string>אחרי ההתקנה</string>
 		<key>VIBRATE</key>
-		<string>Vibr�l�s</string>
+		<string>רטט</string>
 		<key>AUTOFINISH</key>
-		<string>Automatikus Befejez�s</string>
+		<string>סיום אוטומטי</string>
 		<key>POST_INSTALL_FOOTER</key>
-		<string>Automatikusan respringel, �jraindul, vagy visszat�r a Cydia-ba a megadott id� ut�n.</string>
+		<string>מפעיל אוטומטית ריספרינג, הפעלה מחדש, או חוזר לסידיה אחרי מספר מסויים של שניות.</string>
 
 		<key>SAVE</key>
-		<string>Ment�s</string>
+		<string>שמור</string>
 </dict>
 </plist>

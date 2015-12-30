@@ -2,13 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-		<key>ENABLED</key>
-		<string>מופעל</string>
-
-		<key>OPTIONS</key>
-		<string>אופציות</string>
-
 		<key>CREDITS</key>
-		<string>תודות</string>
+		<string>K�sz�t�k</string>
+
+		<key>EMAIL</key>
+		<string>Email</string>
+
+		<key>DONATE</key>
+		<string>T�mogat�s</string>
 </dict>
 </plist>
