@@ -8,8 +8,23 @@
 		<key>APPLY_SETTINGS</key>
 		<string>Aplicar configuració</string>
 		<key>APPLY_FOOTER</key>
-		<string>La majoria d'opcions es poden aplicar de seguina, però per alguns d'elles caldrà reiniciar el Cydia.</string>
+		<string>La majoria d'opcions es poden aplicar de seguida, però per alguns d'elles caldrà reiniciar el Cydia.</string>
 
+		<key>DEFAULT_PAGE</key>
+		<string>Pàgina predeterminada</string>
+		<key>HOME</key>
+		<string>Pàgina d'inici</string>
+		<key>SOURCES</key>
+		<string>Fonts</string>
+		<key>CHANGES</key>
+		<string>Canvis</string>
+		<key>INSTALLED</key>
+		<string>Instal·lat</string>
+		<key>SEARCH</key>
+		<string>Cerca</string>
+		<key>DEFAULT_PAGE_FOOTER</key>
+		<string>Quan s'obri el Cydia es mostrarà la pàgina seleccionada.</string>
+		
 		<key>AUTO_REFRESH_HEADER</key>
 		<string>Refresc automàtic</string>
 		<key>AUTO_REFRESH</key>
