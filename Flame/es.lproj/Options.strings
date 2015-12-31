@@ -10,6 +10,21 @@
 		<key>APPLY_FOOTER</key>
 		<string>La mayoría de opciones se pueden aplicar de seguida, pero para algunas es necesario reiniciar Cydia.</string>
 
+		<key>DEFAULT_PAGE</key>
+		<string>Página predeterminada</string>
+		<key>HOME</key>
+		<string>Página de inicio</string>
+		<key>SOURCES</key>
+		<string>Fuentes</string>
+		<key>CHANGES</key>
+		<string>Cambios</string>
+		<key>INSTALLED</key>
+		<string>Instalado</string>
+		<key>SEARCH</key>
+		<string>Buscar</string>
+		<key>DEFAULT_PAGE_FOOTER</key>
+		<string>Cuando se abre Cydia se verá la página seleccionada.</string>
+		
 		<key>AUTO_REFRESH_HEADER</key>
 		<string>Refresco automático</string>
 		<key>AUTO_REFRESH</key>
