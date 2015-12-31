@@ -81,13 +81,11 @@
 		<key>BACKGROUND_COLOR</key>
 		<string>背景顏色:</string>
 
-		<key>POST_INSTALL_HEADER</key>
-		<string>安裝後</string>
-		<key>VIBRATE</key>
-		<string>震動</string>
 		<key>AUTOFINISH</key>
 		<string>自動完成</string>
-		<key>POST_INSTALL_FOOTER</key>
+		<key>VIBRATE</key>
+		<string>震動</string>
+		<key>AUTOFINISH_FOOTER</key>
 		<string>啟動數秒後自動重新載入，開機，或返回Cydia。</string>
 
 		<key>SAVE</key>

@@ -81,13 +81,11 @@
 		<key>BACKGROUND_COLOR</key>
 		<string>Color de fons:</string>
 
-		<key>POST_INSTALL_HEADER</key>
-		<string>Després d'instal·lar</string>
-		<key>VIBRATE</key>
-		<string>Vibrar</string>
 		<key>AUTOFINISH</key>
 		<string>Acabar automàticament</string>
-		<key>POST_INSTALL_FOOTER</key>
+		<key>VIBRATE</key>
+		<string>Vibrar</string>
+		<key>AUTOFINISH_FOOTER</key>
 		<string>Reinicia el SpringBoard o el dispositiu, o retorna a Cydia després d'un nombre de segons determinat.</string>
 
 		<key>SAVE</key>

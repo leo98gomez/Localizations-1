@@ -66,13 +66,11 @@
 		<key>BACKGROUND_COLOR</key>
 		<string>Háttér színe:</string>
 
-		<key>POST_INSTALL_HEADER</key>
-		<string>Telepítési folyamat</string>
-		<key>VIBRATE</key>
-		<string>Vibrálás</string>
 		<key>AUTOFINISH</key>
 		<string>Automatikus Befejezés</string>
-		<key>POST_INSTALL_FOOTER</key>
+		<key>VIBRATE</key>
+		<string>Vibrálás</string>
+		<key>AUTOFINISH_FOOTER</key>
 		<string>Automatikusan respringel, újraindul, vagy visszatér a Cydia-ba a megadott idõ után.</string>
 
 		<key>SAVE</key>

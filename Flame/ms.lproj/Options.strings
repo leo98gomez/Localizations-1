@@ -66,13 +66,11 @@
 		<key>BACKGROUND_COLOR</key>
 		<string>Warna Latar:</string>
 
-		<key>POST_INSTALL_HEADER</key>
-		<string>Selepas Pemasangan</string>
-		<key>VIBRATE</key>
-		<string>Bergetar</string>
 		<key>AUTOFINISH</key>
 		<string>Habiskan Terus</string>
-		<key>POST_INSTALL_FOOTER</key>
+		<key>VIBRATE</key>
+		<string>Bergetar</string>
+		<key>AUTOFINISH_FOOTER</key>
 		<string>Terus resprings, reboots, atau kembali ke Cydia selepas saat yang ditetapkan.</string>		
 
 		<key>SAVE</key>

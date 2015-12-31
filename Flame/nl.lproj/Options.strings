@@ -81,13 +81,11 @@
 		<key>BACKGROUND_COLOR</key>
 		<string>Achtergrondkleur:</string>
 
-		<key>POST_INSTALL_HEADER</key>
-		<string>Na de installatie</string>
-		<key>VIBRATE</key>
-		<string>Trillen</string>
 		<key>AUTOFINISH</key>
 		<string>Automatisch voltooien</string>
-		<key>POST_INSTALL_FOOTER</key>
+		<key>VIBRATE</key>
+		<string>Trillen</string>
+		<key>AUTOFINISH_FOOTER</key>
 		<string>Respringt, herstart, of gaat automatisch naar Cydia terug na een aantal seconden.</string>
 
 		<key>SAVE</key>

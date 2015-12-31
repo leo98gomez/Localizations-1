@@ -81,13 +81,11 @@
 		<key>BACKGROUND_COLOR</key>
 		<string>Background Color:</string>
 
-		<key>POST_INSTALL_HEADER</key>
-		<string>Post Install</string>
-		<key>VIBRATE</key>
-		<string>Vibrate</string>
 		<key>AUTOFINISH</key>
 		<string>Auto Finish</string>
-		<key>POST_INSTALL_FOOTER</key>
+		<key>VIBRATE</key>
+		<string>Vibrate</string>
+		<key>AUTOFINISH_FOOTER</key>
 		<string>Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.</string>
 
 		<key>SAVE</key>

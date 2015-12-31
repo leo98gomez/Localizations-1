@@ -66,13 +66,11 @@
 		<key>BACKGROUND_COLOR</key>
 		<string>צבע רקע:</string>
 
-		<key>POST_INSTALL_HEADER</key>
-		<string>אחרי ההתקנה</string>
-		<key>VIBRATE</key>
-		<string>רטט</string>
 		<key>AUTOFINISH</key>
 		<string>סיום אוטומטי</string>
-		<key>POST_INSTALL_FOOTER</key>
+		<key>VIBRATE</key>
+		<string>רטט</string>
+		<key>AUTOFINISH_FOOTER</key>
 		<string>מפעיל אוטומטית ריספרינג, הפעלה מחדש, או חוזר לסידיה אחרי מספר מסויים של שניות.</string>
 
 		<key>SAVE</key>
