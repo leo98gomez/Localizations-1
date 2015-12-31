@@ -9,13 +9,13 @@ Thank you very much!
 ##Flame
 
 ###Completed
-* None
+* ca.lproj - /u/Q-Quan
+* es.lproj - /u/Q-Quan
+* nl.lproj - /u/Q-Quan
+* zh.lproj - /u/DurianNinja
 
 ###Incomplete
-* ca.lproj
 * de.lproj
-* es.lproj
-* he.lproj - @Aranshavit
+* he.lproj - /u/Aransh
 * hu.lproj - /u/benciikee
 * ms.lproj - /u/redzrex
-* nl.lproj
