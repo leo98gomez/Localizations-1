@@ -10,6 +10,21 @@
 		<key>APPLY_FOOTER</key>
 		<string>De meeste opties worden direct ingeschakeld, maar voor sommige moet Cydia opnieuw opgestart worden.</string>
 
+		<key>DEFAULT_PAGE</key>
+		<string>Standaardpagina</string>
+		<key>HOME</key>
+		<string>Startpagina</string>
+		<key>SOURCES</key>
+		<string>Bronnen</string>
+		<key>CHANGES</key>
+		<string>Wijzigingen</string>
+		<key>INSTALLED</key>
+		<string>Geïnstalleerd</string>
+		<key>SEARCH</key>
+		<string>Zoek</string>
+		<key>DEFAULT_PAGE_FOOTER</key>
+		<string>Kies de pagina waarop Cydia wordt geopend.</string>
+		
 		<key>AUTO_REFRESH_HEADER</key>
 		<string>Automatisch verversen</string>
 		<key>AUTO_REFRESH</key>
@@ -34,13 +49,13 @@
 		<key>GLOBAL_TINT</key>
 		<string>Globale tint</string>
 		<key>GLOBAL_TINT_COLOR</key>
-		<string>Globale tintkleur:</string>
+		<string>Kleur van de globale tint:</string>
 		<key>NAVBAR_COLOR</key>
-		<string>Navigatiebalkkleur:</string>
+		<string>Kleur van de navigatiebalk:</string>
 		<key>NAVBAR_TITLE_COLOR</key>
-		<string>Navigatietitelkleur:</string>
+		<string>Kleur van de navigatiebalktitel:</string>
 		<key>TABBAR_COLOR</key>
-		<string>Tabbalkkleur:</string>
+		<string>Kleur van de tabbalk:</string>
 		<key>TABBAR_SELECTED_COLOR</key>
 		<string>Kleur van geselecteerd tabblad:</string>
 		<key>DARK_KEYBOARD</key>
