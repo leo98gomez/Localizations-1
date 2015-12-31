@@ -12,7 +12,8 @@ Thank you very much!
 * ca.lproj - /u/Q-Quan
 * es.lproj - /u/Q-Quan
 * nl.lproj - /u/Q-Quan
-* zh.lproj - /u/DurianNinja
+* zh_HK.lproj - /u/DurianNinja
+* zh_TW.lproj - /u/DurianNinja
 
 ###Incomplete
 * de.lproj
