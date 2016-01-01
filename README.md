@@ -14,8 +14,8 @@ Thank you very much!
 * es.lproj - /u/Q-Quan
 * nb.lproj - kissorjeyabalan
 * nl.lproj - /u/Q-Quan
-* tr.lproj - /u/omerwwazap
 * pl.lproj - lyratriescoding
+* tr.lproj - /u/omerwwazap
 * zh_HK.lproj - /u/DurianNinja
 * zh_TW.lproj - /u/DurianNinja
 
