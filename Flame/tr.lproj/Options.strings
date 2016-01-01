@@ -1,94 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-		<key>OPTIONS</key>
-		<string>Options</string>
+﻿"OPTIONS" = "Seçenekler";
 
-		<key>APPLY_SETTINGS</key>
-		<string>Apply Settings</string>
-		<key>APPLY_FOOTER</key>
-		<string>Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.</string>
+"APPLY_SETTINGS" = "Seçilenleri Uygula";
+"APPLY_FOOTER" = "Bazı şeçenkler hemen uygulandasa bazıları içinde Cydianın tekrar başlaıtması gerikir.";
 
-		<key>DEFAULT_PAGE</key>
-		<string>Default Page</string>
-		<key>HOME</key>
-		<string>Home</string>
-		<key>SOURCES</key>
-		<string>Sources</string>
-		<key>CHANGES</key>
-		<string>Changes</string>
-		<key>INSTALLED</key>
-		<string>Installed</string>
-		<key>SEARCH</key>
-		<string>Search</string>
-		<key>DEFAULT_PAGE_FOOTER</key>
-		<string>Set the default page that Cydia opens to.</string>
+"DEFAULT_PAGE" = "Varsayılan Sayfa";
+"HOME" = "Menü";
+"SOURCES" = "Kaynaklar";
+"CHANGES" = "Değişiklikler";
+"INSTALLED" = "Yüklüler";
+"SEARCH" = "Arama";
+"DEFAULT_PAGE_FOOTER" = "Cydia'nın açıldığı ana sayfa.";
 
-		<key>AUTO_REFRESH_HEADER</key>
-		<string>Auto Refresh</string>
-		<key>AUTO_REFRESH</key>
-		<string>Disable Auto Refresh</string>
-		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Prevent Cydia from automatically refreshing.</string>
+"AUTO_REFRESH_HEADER" = "Otomatik Yükleme";
+"AUTO_REFRESH" = "Otomatik Yükleme Kapat";
+"AUTO_REFRESH_FOOTER" = "Cydia'nın kendini yenilemesini durdurma.";
 
-		<key>TIMEOUT</key>
-		<string>Timeout</string>
-		<key>SECONDS</key>
-		<string>Seconds:</string>
-		<key>TIMEOUT_FOOTER</key>
-		<string>Force Cydia to only spend a specified number of seconds trying to refresh each source.</string>
+"TIMEOUT" = "Zaman Aşımı";
+"SECONDS" = "Saniye:";
+"TIMEOUT_FOOTER" = "Her kaynağın yenilenme suresini azalatmaya zorlar.";
 
-		<key>BATCH_ADD</key>
-		<string>Batch Add</string>
-		<key>BATCH_ADD_FOOTER</key>
-		<string>Add multiple repos at once by having them in your clipboard.</string>
+"BATCH_ADD" = "Toplu Ekleme";
+"BATCH_ADD_FOOTER" = "Birden fazla kopyalanmış kaynakların hepsini aynı anda ekler.";
 
-		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>Customize UI</string>
-		<key>GLOBAL_TINT</key>
-		<string>Global Tint</string>
-		<key>GLOBAL_TINT_COLOR</key>
-		<string>Global Tint Color:</string>
-		<key>NAVBAR_COLOR</key>
-		<string>Navbar Color:</string>
-		<key>NAVBAR_TITLE_COLOR</key>
-		<string>Navbar Title Color:</string>
-		<key>TABBAR_COLOR</key>
-		<string>Tab Bar Color:</string>
-		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Tab Bar Selected Color:</string>
-		<key>DARK_KEYBOARD</key>
-		<string>Dark Keyboard</string>
-		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>Remove Homepage Ads</string>
+"CUSTOMIZE_UI_HEADER" = "Özelleştirilmiş Arayüz";
+"GLOBAL_TINT" = "Tüm Renkler";
+"GLOBAL_TINT_COLOR" = "Tüm Renklerin Rengi:";
+"NAVBAR_COLOR" = "Navbar Rengi:";
+"NAVBAR_TITLE_COLOR" = "Navbar Başlık Rengi:"
+"TABBAR_COLOR" = "Tab Bar Rengi:";
+"TABBAR_SELECTED_COLOR" = "Tab Bar Seçilen Rengi:";
+"DARK_KEYBOARD" = "Siyah Klavye";
+"REMOVE_HOMEPAGE_ADS" = "Reklam Engelleme";
 
-		<key>SEARCH_TAB_HEADER</key>
-		<string>Search Tab</string>
-		<key>CANCEL_BUTTON</key>
-		<string>Cancel Button</string>
-		<key>SWIPE_TO_DISMISS</key>
-		<string>Swipe to Dismiss</string>
-		<key>SEARCH_TAB_FOOTER</key>
-		<string>Swipe down to dismiss the keyboard.</string>
+"SEARCH_TAB_HEADER" = "Arama Çubuğu";
+"CANCEL_BUTTON" = "İptal Tışu";
+"SWIPE_TO_DISMISS" = "Kapatmak için kaydır";
+"SEARCH_TAB_FOOTER" = "Klavyeyi kapatmak için kaydır.";
 
-		<key>INSTALL_SCREEN_HEADER</key>
-		<string>Install Screen</string>
-		<key>REMOVE_BUTTON_BORDER</key>
-		<string>Remove Button Border</string>
-		<key>BUTTON_BORDER_COLOR</key>
-		<string>Button Border Color:</string>
-		<key>BACKGROUND_COLOR</key>
-		<string>Background Color:</string>
+"INSTALL_SCREEN_HEADER" = "İndirme ekranı";
+"REMOVE_BUTTON_BORDER" = "Tuş çevresini Kaldır";
+"BUTTON_BORDER_COLOR" = "Tuş çevresinin rengi:";
+"BACKGROUND_COLOR" = "Arkaplan rengi:";
 
-		<key>AUTOFINISH</key>
-		<string>Auto Finish</string>
-		<key>VIBRATE</key>
-		<string>Vibrate</string>
-		<key>AUTOFINISH_FOOTER</key>
-		<string>Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.</string>
+"AUTOFINISH" = "Otomatik bitirme";
+"VIBRATE" = "Titreşim";
+"AUTOFINISH_FOOTER" = "Otomatik olarak yeniden başlatır veya belli bir süre sonra Cydia açılır.";
 
-		<key>SAVE</key>
-		<string>Save</string>
-</dict>
-</plist>
+"SAVE" = "Kaydet";

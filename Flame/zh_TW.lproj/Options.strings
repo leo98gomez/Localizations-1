@@ -1,94 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-		<key>OPTIONS</key>
-		<string>設定</string>
+"OPTIONS" = "設定";
 
-		<key>APPLY_SETTINGS</key>
-		<string>應用設定</string>
-		<key>APPLY_FOOTER</key>
-		<string>有一部分設定可以立即生效，但有一些需要重新啟動Cydia來生效。</string>
+"APPLY_SETTINGS" = "套用設定";
+"APPLY_FOOTER" = "有一部分設定可以立即生效，但有一些需要重新啟動Cydia來生效。";
 
-		<key>DEFAULT_PAGE</key>
-		<string>預設頁項</string>
-		<key>HOME</key>
-		<string>主頁</string>
-		<key>SOURCES</key>
-		<string>軟體源</string>
-		<key>CHANGES</key>
-		<string>更新頁</string>
-		<key>INSTALLED</key>
-		<string>已安裝軟體</string>
-		<key>SEARCH</key>
-		<string>搜索</string>
-		<key>DEFAULT_PAGE_FOOTER</key>
-		<string>選擇Cydia預設頁項。</string>
+"DEFAULT_PAGE" = "預設頁項";
+"HOME" = "主頁";
+"SOURCES" = "來源";
+"CHANGES" = "變更內容";
+"INSTALLED" = "已安裝";
+"SEARCH" = "搜尋";
+"DEFAULT_PAGE_FOOTER" = "選擇Cydia預設頁項。";
 
-		<key>AUTO_REFRESH_HEADER</key>
-		<string>自動刷新</string>
-		<key>AUTO_REFRESH</key>
-		<string>關閉自動刷新</string>
-		<key>AUTO_REFRESH_FOOTER</key>
-		<string>避免Cydia自動刷新。</string>
+"AUTO_REFRESH_HEADER" = "自動重新整理";
+"AUTO_REFRESH" = "關閉自動重新整理";
+"AUTO_REFRESH_FOOTER" = "避免Cydia自動重新整理。";
 
-		<key>TIMEOUT</key>
-		<string>超時設定</string>
-		<key>SECONDS</key>
-		<string>秒:</string>
-		<key>TIMEOUT_FOOTER</key>
-		<string>設定Cydia刷新軟體源的時間。</string>
+"TIMEOUT" = "超時設定";
+"SECONDS" = "秒:";
+"TIMEOUT_FOOTER" = "設定Cydia刷新軟體源的時間。";
 
-		<key>BATCH_ADD</key>
-		<string>批量加軟體源</string>
-		<key>BATCH_ADD_FOOTER</key>
-		<string>一次過加多個在剪貼板的軟體源。</string>
+"BATCH_ADD" = "批量加來源";
+"BATCH_ADD_FOOTER" = "一次過加多個在剪貼板的來源。";
 
-		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>UI設定</string>
-		<key>GLOBAL_TINT</key>
-		<string>全局顏色設定</string>
-		<key>GLOBAL_TINT_COLOR</key>
-		<string>全局顏色:</string>
-		<key>NAVBAR_COLOR</key>
-		<string>導航欄顏色:</string>
-		<key>NAVBAR_TITLE_COLOR</key>
-		<string>導航欄標題顏色:</string>
-		<key>TABBAR_COLOR</key>
-		<string>標籤欄顏色:</string>
-		<key>TABBAR_SELECTED_COLOR</key>
-		<string>標籤欄已選擇顏色:</string>
-		<key>DARK_KEYBOARD</key>
-		<string>暗黑鍵盤</string>
-		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>刪除網頁廣告</string>
+"CUSTOMIZE_UI_HEADER" = "UI設定";
+"GLOBAL_TINT" = "全局顏色設定";
+"GLOBAL_TINT_COLOR" = "全局顏色:";
+"NAVBAR_COLOR" = "導航欄顏色:";
+"NAVBAR_TITLE_COLOR" = "導航欄標題顏色:";
+"TABBAR_COLOR" = "標籤欄顏色:";
+"TABBAR_SELECTED_COLOR" = "標籤欄已選擇顏色:";
+"DARK_KEYBOARD" = "暗色鍵盤";
+"REMOVE_HOMEPAGE_ADS" = "刪除網頁廣告";
 
-		<key>SEARCH_TAB_HEADER</key>
-		<string>搜索標籤</string>
-		<key>CANCEL_BUTTON</key>
-		<string>取消標籤</string>
-		<key>SWIPE_TO_DISMISS</key>
-		<string>滑動刪除</string>
-		<key>SEARCH_TAB_FOOTER</key>
-		<string>往下滑動來刪除鍵盤。</string>
+"SEARCH_TAB_HEADER" = "搜索標籤";
+"CANCEL_BUTTON" = "取消標籤";
+"SWIPE_TO_DISMISS" = "滑動刪除";
+"SEARCH_TAB_FOOTER" = "往下滑動來刪除鍵盤。";
 
-		<key>INSTALL_SCREEN_HEADER</key>
-		<string>安裝頁面</string>
-		<key>REMOVE_BUTTON_BORDER</key>
-		<string>刪除按鈕邊框</string>
-		<key>BUTTON_BORDER_COLOR</key>
-		<string>按鈕邊框顏色:</string>
-		<key>BACKGROUND_COLOR</key>
-		<string>背景顏色:</string>
+"INSTALL_SCREEN_HEADER" = "安裝頁面";
+"REMOVE_BUTTON_BORDER" = "刪除按鈕邊框";
+"BUTTON_BORDER_COLOR" = "按鈕邊框顏色:";
+"BACKGROUND_COLOR" = "背景顏色:";
 
-		<key>AUTOFINISH</key>
-		<string>自動完成</string>
-		<key>VIBRATE</key>
-		<string>震動</string>
-		<key>AUTOFINISH_FOOTER</key>
-		<string>啟動數秒後自動重新載入，開機，或返回Cydia。</string>
+"AUTOFINISH" = "自動完成";
+"VIBRATE" = "震動";
+"AUTOFINISH_FOOTER" = "啟動數秒後自動重新載入，開機，或返回Cydia。";
 
-		<key>SAVE</key>
-		<string>保存</string>
-</dict>
-</plist>
+"SAVE" = "保存";

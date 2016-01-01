@@ -1,94 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-		<key>OPTIONS</key>
-		<string>Alternativer</string>
+"OPTIONS" = "Alternativer";
 
-		<key>APPLY_SETTINGS</key>
-		<string>Bruk instillinger</string>
-		<key>APPLY_FOOTER</key>
-		<string>De fleste instillingene trer i kraft umiddelbart, men noen krever at Cydia må startes på nytt for å tre i kraft.</string>
+"APPLY_SETTINGS" = "Bruk instillinger";
+"APPLY_FOOTER" = "De fleste instillingene trer i kraft umiddelbart, men noen krever at Cydia må startes på nytt for å tre i kraft.";
 
-		<key>DEFAULT_PAGE</key>
-		<string>Startside</string>
-		<key>HOME</key>
-		<string>Hjem</string>
-		<key>SOURCES</key>
-		<string>Kilder</string>
-		<key>CHANGES</key>
-		<string>Endringer</string>
-		<key>INSTALLED</key>
-		<string>Installert</string>
-		<key>SEARCH</key>
-		<string>Søk</string>
-		<key>DEFAULT_PAGE_FOOTER</key>
-		<string>Angi hvilken side Cydia skal åpnes til.</string>
+"DEFAULT_PAGE" = "Standard Side";
+"HOME" = "Hjem";
+"SOURCES" = "Kilder";
+"CHANGES" = "Endringer";
+"INSTALLED" = "Installer";
+"SEARCH" = "Søk";
+"DEFAULT_PAGE_FOOTER" = "Angi standadr side som Cydia åpnes til.";
 
-		<key>AUTO_REFRESH_HEADER</key>
-		<string>Auto Oppdater</string>
-		<key>AUTO_REFRESH</key>
-		<string>Deaktiver autoppdatering</string>
-		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Forhindrer Cydia fra å oppdatere seg automatisk.</string>
+"AUTO_REFRESH_HEADER" = "Auto Oppdater";
+"AUTO_REFRESH" = "Deaktiver autoppdatering";
+"AUTO_REFRESH_FOOTER" = "Forhindrer Cydia fra å oppdatere automatisk.";
 
-		<key>TIMEOUT</key>
-		<string>Tidsavbrudd</string>
-		<key>SECONDS</key>
-		<string>Sekunder:</string>
-		<key>TIMEOUT_FOOTER</key>
-		<string>Tving Cydia til å bruke et bestemt antall sekunder på hver kilde som oppdateres.</string>
+"TIMEOUT" = "Tidsavbrudd";
+"SECONDS" = "Sekunder:";
+"TIMEOUT_FOOTER" = "Tving Cydia til å bruke bestemt antall sekunder på hver kilde som oppdateres.";
 
-		<key>BATCH_ADD</key>
-		<string>Batch Add</string>
-		<key>BATCH_ADD_FOOTER</key>
-		<string>Legg til flere repo samtidig ved å ha dem i utklippstavlen din.</string>
+"BATCH_ADD" = "Batch Add";
+"BATCH_ADD_FOOTER" = "Legg til flere repo samtidig ved å ha dem i utklippstavlen din.";
 
-		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>Tilpass UI</string>
-		<key>GLOBAL_TINT</key>
-		<string>Global Fargenyanse</string>
-		<key>GLOBAL_TINT_COLOR</key>
-		<string>Global Fargenyanse:</string>
-		<key>NAVBAR_COLOR</key>
-		<string>Navbar Farge:</string>
-		<key>NAVBAR_TITLE_COLOR</key>
-		<string>Navbar Tittel Farge:</string>
-		<key>TABBAR_COLOR</key>
-		<string>Tab Bar Farge:</string>
-		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Tab Bar Valgt Farge:</string>
-		<key>DARK_KEYBOARD</key>
-		<string>Mørk Tastatur</string>
-		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>Fjern Hjemmeside Annonser</string>
+"CUSTOMIZE_UI_HEADER" = "Tilpass UI";
+"GLOBAL_TINT" = "Global Fargenyanse";
+"GLOBAL_TINT_COLOR" = "Global Fargenyanse:";
+"NAVBAR_COLOR" = "Navbar Farge:";
+"NAVBAR_TITLE_COLOR" = "Navbar Tittel Farge:";
+"TABBAR_COLOR" = "Tab Bar Farge:";
+"TABBAR_SELECTED_COLOR" = "Tab Bar Valgt Farge:";
+"DARK_KEYBOARD" = "Mørk Tastatur";
+"REMOVE_HOMEPAGE_ADS" = "Fjern Hjemmeside Annonser";
 
-		<key>SEARCH_TAB_HEADER</key>
-		<string>Søk Fane</string>
-		<key>CANCEL_BUTTON</key>
-		<string>Avbryt Knapp</string>
-		<key>SWIPE_TO_DISMISS</key>
-		<string>Sveip for å lukke</string>
-		<key>SEARCH_TAB_FOOTER</key>
-		<string>Sveip ned for å skjule tastaturet.</string>
+"SEARCH_TAB_HEADER" = "Søk Fane";
+"CANCEL_BUTTON" = "Avbryt Knapp";
+"SWIPE_TO_DISMISS" = "Sveip for å lukke";
+"SEARCH_TAB_FOOTER" = "Sveip ned for å skjule tastaturet.";
 
-		<key>INSTALL_SCREEN_HEADER</key>
-		<string>Installerings Skjerm</string>
-		<key>REMOVE_BUTTON_BORDER</key>
-		<string>Fjern Knappekant</string>
-		<key>BUTTON_BORDER_COLOR</key>
-		<string>Knappekant Farge:</string>
-		<key>BACKGROUND_COLOR</key>
-		<string>Bakgrunnsfarge:</string>
+"INSTALL_SCREEN_HEADER" = "Installerings Skjerm";
+"REMOVE_BUTTON_BORDER" = "Fjern Knappekant";
+"BUTTON_BORDER_COLOR" = "Knappekant Farge:";
+"BACKGROUND_COLOR" = "Bakgrunnsfarge:";
 
-		<key>AUTOFINISH</key>
-		<string>Auto Fullfør</string>
-		<key>VIBRATE</key>
-		<string>Vibrer</string>
-		<key>AUTOFINISH_FOOTER</key>
-		<string>Respringer, restarter eller returnerer til Cydia automatisk etter et bestemt antall sekunder.</string>
+"AUTOFINISH" = "Auto Fullfør";
+"VIBRATE" = "Vibrer";
+"AUTOFINISH_FOOTER" = "Respringer, restarter eller returnerer til Cydia automatisk etter et bestemt antall sekunder.";
 
-		<key>SAVE</key>
-		<string>Lagre</string>
-</dict>
-</plist>
+"SAVE" = "Lagre";
