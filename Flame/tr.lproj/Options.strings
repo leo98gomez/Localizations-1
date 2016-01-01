@@ -1,49 +1,49 @@
-"OPTIONS" = "Options";
+﻿"OPTIONS" = "Seçenekler";
 
-"APPLY_SETTINGS" = "Apply Settings";
-"APPLY_FOOTER" = "Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.";
+"APPLY_SETTINGS" = "Seçilenleri Uygula";
+"APPLY_FOOTER" = "Bazı şeçenkler hemen uygulandasa bazıları içinde Cydianın tekrar başlaıtması gerikir.";
 
-"DEFAULT_PAGE" = "Default Page";
-"HOME" = "Home";
-"SOURCES" = "Sources";
-"CHANGES" = "Changes";
-"INSTALLED" = "Installed";
-"SEARCH" = "Search";
-"DEFAULT_PAGE_FOOTER" = "Set the default page that Cydia opens to.";
+"DEFAULT_PAGE" = "Varsayılan Sayfa";
+"HOME" = "Menü";
+"SOURCES" = "Kaynaklar";
+"CHANGES" = "Değişiklikler";
+"INSTALLED" = "Yüklüler";
+"SEARCH" = "Arama";
+"DEFAULT_PAGE_FOOTER" = "Cydia'nın açıldığı ana sayfa.";
 
-"AUTO_REFRESH_HEADER" = "Auto Refresh";
-"AUTO_REFRESH" = "Disable Auto Refresh";
-"AUTO_REFRESH_FOOTER" = "Prevent Cydia from automatically refreshing.";
+"AUTO_REFRESH_HEADER" = "Otomatik Yükleme";
+"AUTO_REFRESH" = "Otomatik Yükleme Kapat";
+"AUTO_REFRESH_FOOTER" = "Cydia'nın kendini yenilemesini durdurma.";
 
-"TIMEOUT" = "Timeout";
-"SECONDS" = "Seconds:";
-"TIMEOUT_FOOTER" = "Force Cydia to only spend a specified number of seconds trying to refresh each source.";
+"TIMEOUT" = "Zaman Aşımı";
+"SECONDS" = "Saniye:";
+"TIMEOUT_FOOTER" = "Her kaynağın yenilenme suresini azalatmaya zorlar.";
 
-"BATCH_ADD" = "Batch Add";
-"BATCH_ADD_FOOTER" = "Add multiple repos at once by having them in your clipboard.";
+"BATCH_ADD" = "Toplu Ekleme";
+"BATCH_ADD_FOOTER" = "Birden fazla kopyalanmış kaynakların hepsini aynı anda ekler.";
 
-"CUSTOMIZE_UI_HEADER" = "Customize UI";
-"GLOBAL_TINT" = "Global Tint";
-"GLOBAL_TINT_COLOR" = "Global Tint Color:";
-"NAVBAR_COLOR" = "Navbar Color:";
-"NAVBAR_TITLE_COLOR" = "Navbar Title Color:";
-"TABBAR_COLOR" = "Tab Bar Color:";
-"TABBAR_SELECTED_COLOR" = "Tab Bar Selected Color:";
-"DARK_KEYBOARD" = "Dark Keyboard";
-"REMOVE_HOMEPAGE_ADS" = "Remove Homepage Ads";
+"CUSTOMIZE_UI_HEADER" = "Özelleştirilmiş Arayüz";
+"GLOBAL_TINT" = "Tüm Renkler";
+"GLOBAL_TINT_COLOR" = "Tüm Renklerin Rengi:";
+"NAVBAR_COLOR" = "Navbar Rengi:";
+"NAVBAR_TITLE_COLOR" = "Navbar Başlık Rengi:"
+"TABBAR_COLOR" = "Tab Bar Rengi:";
+"TABBAR_SELECTED_COLOR" = "Tab Bar Seçilen Rengi:";
+"DARK_KEYBOARD" = "Siyah Klavye";
+"REMOVE_HOMEPAGE_ADS" = "Reklam Engelleme";
 
-"SEARCH_TAB_HEADER" = "Search Tab";
-"CANCEL_BUTTON" = "Cancel Button";
-"SWIPE_TO_DISMISS" = "Swipe to Dismiss";
-"SEARCH_TAB_FOOTER" = "Swipe down to dismiss the keyboard.";
+"SEARCH_TAB_HEADER" = "Arama Çubuğu";
+"CANCEL_BUTTON" = "İptal Tışu";
+"SWIPE_TO_DISMISS" = "Kapatmak için kaydır";
+"SEARCH_TAB_FOOTER" = "Klavyeyi kapatmak için kaydır.";
 
-"INSTALL_SCREEN_HEADER" = "Install Screen";
-"REMOVE_BUTTON_BORDER" = "Remove Button Border";
-"BUTTON_BORDER_COLOR" = "Button Border Color:";
-"BACKGROUND_COLOR" = "Background Color:";
+"INSTALL_SCREEN_HEADER" = "İndirme ekranı";
+"REMOVE_BUTTON_BORDER" = "Tuş çevresini Kaldır";
+"BUTTON_BORDER_COLOR" = "Tuş çevresinin rengi:";
+"BACKGROUND_COLOR" = "Arkaplan rengi:";
 
-"AUTOFINISH" = "Auto Finish";
-"VIBRATE" = "Vibrate";
-"AUTOFINISH_FOOTER" = "Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.";
+"AUTOFINISH" = "Otomatik bitirme";
+"VIBRATE" = "Titreşim";
+"AUTOFINISH_FOOTER" = "Otomatik olarak yeniden başlatır veya belli bir süre sonra Cydia açılır.";
 
-"SAVE" = "Save";
+"SAVE" = "Kaydet";

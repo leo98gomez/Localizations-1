@@ -1,26 +1,26 @@
 "OPTIONS" = "設定";
 
-"APPLY_SETTINGS" = "應用設定";
+"APPLY_SETTINGS" = "套用設定";
 "APPLY_FOOTER" = "有一部分設定可以立即生效，但有一些需要重新啟動Cydia來生效。";
 
 "DEFAULT_PAGE" = "預設頁項";
 "HOME" = "主頁";
-"SOURCES" = "軟體源";
-"CHANGES" = "更新頁";
-"INSTALLED" = "已安裝軟體";
-"SEARCH" = "搜索";
+"SOURCES" = "來源";
+"CHANGES" = "變更內容";
+"INSTALLED" = "已安裝";
+"SEARCH" = "搜尋";
 "DEFAULT_PAGE_FOOTER" = "選擇Cydia預設頁項。";
 
-"AUTO_REFRESH_HEADER" = "自動刷新";
-"AUTO_REFRESH" = "關閉自動刷新";
-"AUTO_REFRESH_FOOTER" = "避免Cydia自動刷新。";
+"AUTO_REFRESH_HEADER" = "自動重新整理";
+"AUTO_REFRESH" = "關閉自動重新整理";
+"AUTO_REFRESH_FOOTER" = "避免Cydia自動重新整理。";
 
 "TIMEOUT" = "超時設定";
 "SECONDS" = "秒:";
 "TIMEOUT_FOOTER" = "設定Cydia刷新軟體源的時間。";
 
-"BATCH_ADD" = "批量加軟體源";
-"BATCH_ADD_FOOTER" = "一次過加多個在剪貼板的軟體源。";
+"BATCH_ADD" = "批量加來源";
+"BATCH_ADD_FOOTER" = "一次過加多個在剪貼板的來源。";
 
 "CUSTOMIZE_UI_HEADER" = "UI設定";
 "GLOBAL_TINT" = "全局顏色設定";
@@ -29,7 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "導航欄標題顏色:";
 "TABBAR_COLOR" = "標籤欄顏色:";
 "TABBAR_SELECTED_COLOR" = "標籤欄已選擇顏色:";
-"DARK_KEYBOARD" = "暗黑鍵盤";
+"DARK_KEYBOARD" = "暗色鍵盤";
 "REMOVE_HOMEPAGE_ADS" = "刪除網頁廣告";
 
 "SEARCH_TAB_HEADER" = "搜索標籤";
