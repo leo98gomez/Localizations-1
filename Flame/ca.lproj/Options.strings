@@ -1,94 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-		<key>OPTIONS</key>
-		<string>Opcions</string>
+"OPTIONS" = "Opcions";
 
-		<key>APPLY_SETTINGS</key>
-		<string>Aplicar configuració</string>
-		<key>APPLY_FOOTER</key>
-		<string>La majoria d'opcions es poden aplicar de seguida, però per alguns d'elles caldrà reiniciar el Cydia.</string>
+"APPLY_SETTINGS" = "Aplicar configuració";
+"APPLY_FOOTER" = "La majoria d'opcions es poden aplicar de seguida, però per alguns d'elles caldrà reiniciar el Cydia.";
 
-		<key>DEFAULT_PAGE</key>
-		<string>Pàgina predeterminada</string>
-		<key>HOME</key>
-		<string>Pàgina d'inici</string>
-		<key>SOURCES</key>
-		<string>Fonts</string>
-		<key>CHANGES</key>
-		<string>Canvis</string>
-		<key>INSTALLED</key>
-		<string>Instal·lat</string>
-		<key>SEARCH</key>
-		<string>Cerca</string>
-		<key>DEFAULT_PAGE_FOOTER</key>
-		<string>Quan s'obri el Cydia es mostrarà la pàgina seleccionada.</string>
-		
-		<key>AUTO_REFRESH_HEADER</key>
-		<string>Refresc automàtic</string>
-		<key>AUTO_REFRESH</key>
-		<string>Desactivar el refresc automàtic</string>
-		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Fer que el Cydia no es refresqui automàticament.</string>
+"DEFAULT_PAGE" = "Pàgina predeterminada";
+"HOME" = "Pàgina d'inici";
+"SOURCES" = "Fonts";
+"CHANGES" = "Canvis";
+"INSTALLED" = "Instal·lat";
+"SEARCH" = "Cerca";
+"DEFAULT_PAGE_FOOTER" = "Quan s'obri el Cydia es mostrarà la pàgina seleccionada.";
 
-		<key>TIMEOUT</key>
-		<string>Temps d'espera</string>
-		<key>SECONDS</key>
-		<string>Segons:</string>
-		<key>TIMEOUT_FOOTER</key>
-		<string>Forçar el Cydia a no estar-se més d'un determinat nombre de segons refrescant cada font.</string>
+"AUTO_REFRESH_HEADER" = "Refresc automàtic";
+"AUTO_REFRESH" = "Desactivar el refresc automàtic";
+"AUTO_REFRESH_FOOTER" = "Fer que el Cydia no es refresqui automàticament.";
 
-		<key>BATCH_ADD</key>
-		<string>Afegir en grup</string>
-		<key>BATCH_ADD_FOOTER</key>
-		<string>Afegir més d'un repositori a la vegada tenint-los al porta-retalls.</string>
+"TIMEOUT" = "Temps d'espera";
+"SECONDS" = "Segons:";
+"TIMEOUT_FOOTER" = "Forçar el Cydia a no estar-se més d'un determinat nombre de segons refrescant cada font.";
 
-		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>Personalitzar interfície</string>
-		<key>GLOBAL_TINT</key>
-		<string>Tint global</string>
-		<key>GLOBAL_TINT_COLOR</key>
-		<string>Color de tint:</string>
-		<key>NAVBAR_COLOR</key>
-		<string>Color de la barra de navegació:</string>
-		<key>NAVBAR_TITLE_COLOR</key>
-		<string>Color del títol de navegació:</string>
-		<key>TABBAR_COLOR</key>
-		<string>Color de la barra de pestanyes:</string>
-		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Color de la pestanya seleccionada:</string>
-		<key>DARK_KEYBOARD</key>
-		<string>Teclat fosc</string>
-		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>Treure anuncis de la pàgina d'inici</string>
+"BATCH_ADD" = "Afegir en grup";
+"BATCH_ADD_FOOTER" = "Afegir més d'un repositori a la vegada tenint-los al porta-retalls.";
 
-		<key>SEARCH_TAB_HEADER</key>
-		<string>Pestanya de cerca</string>
-		<key>CANCEL_BUTTON</key>
-		<string>Botó de cancel·lar</string>
-		<key>SWIPE_TO_DISMISS</key>
-		<string>Llicar per tancar</string>
-		<key>SEARCH_TAB_FOOTER</key>
-		<string>Llica el dit avall per tancar el teclat.</string>
+"CUSTOMIZE_UI_HEADER" = "Personalitzar interfície";
+"GLOBAL_TINT" = "Tint global";
+"GLOBAL_TINT_COLOR" = "Color de tint:";
+"NAVBAR_COLOR" = "Color de la barra de navegació:";
+"NAVBAR_TITLE_COLOR" = "Color del títol de navegació:";
+"TABBAR_COLOR" = "Color de la barra de pestanyes:";
+"TABBAR_SELECTED_COLOR" = "Color de la barra de pestanyes:";
+"DARK_KEYBOARD" = "Teclat fosc";
+"REMOVE_HOMEPAGE_ADS" = "Treure anuncis de la pàgina d'inici";
 
-		<key>INSTALL_SCREEN_HEADER</key>
-		<string>Pantalla d'instal·lació</string>
-		<key>REMOVE_BUTTON_BORDER</key>
-		<string>Treure la vora del botó</string>
-		<key>BUTTON_BORDER_COLOR</key>
-		<string>Color de la vora del botó:</string>
-		<key>BACKGROUND_COLOR</key>
-		<string>Color de fons:</string>
+"SEARCH_TAB_HEADER" = "Pestanya de cerca";
+"CANCEL_BUTTON" = "Botó de cancel·lar";
+"SWIPE_TO_DISMISS" = "Llicar per tancar";
+"SEARCH_TAB_FOOTER" = "Llica el dit avall per tancar el teclat.";
 
-		<key>AUTOFINISH</key>
-		<string>Acabar automàticament</string>
-		<key>VIBRATE</key>
-		<string>Vibrar</string>
-		<key>AUTOFINISH_FOOTER</key>
-		<string>Reinicia el SpringBoard o el dispositiu, o retorna a Cydia després d'un nombre de segons determinat.</string>
+"INSTALL_SCREEN_HEADER" = "Pantalla d'instal·lació";
+"REMOVE_BUTTON_BORDER" = "Treure la vora del botó";
+"BUTTON_BORDER_COLOR" = "Color de la vora del botó:";
+"BACKGROUND_COLOR" = "Color de fons:";
 
-		<key>SAVE</key>
-		<string>Guardar</string>
-</dict>
-</plist>
+"AUTOFINISH" = "Acabar automàticament";
+"VIBRATE" = "Vibrar";
+"AUTOFINISH_FOOTER" = "Reinicia el SpringBoard o el dispositiu, o retorna a Cydia després d'un nombre de segons determinat.";
+
+"SAVE" = "Guardar";

@@ -1,68 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-		<key>OPTIONS</key>
-		<string>Optionen</string>
+"OPTIONS" = "Optionen";
 
-		<key>APPLY_SETTINGS</key>
-		<string>Einstellungen übernehmen</string>
-		<key>APPLY_FOOTER</key>
-		<string>Die meisten Einstellungen werden sofort übernommen, einige jedoch erfordern einen Neustart von Cydia.</string>
+"APPLY_SETTINGS" = "Einstellungen übernehmen";
+"APPLY_FOOTER" = "Die meisten Einstellungen werden sofort übernommen, einige jedoch erfordern einen Neustart von Cydia.";
 
-		<key>TIMEOUT</key>
-		<string>Timeout</string>
-		<key>TIMEOUT_FOOTER</key>
-		<string>Gibt die Dauer in Sekunden an, während der Cydia versucht, eine Quelle zu aktualisieren.</string>
+"DEFAULT_PAGE" = "Default Page";
+"HOME" = "Home";
+"SOURCES" = "Sources";
+"CHANGES" = "Changes";
+"INSTALLED" = "Installed";
+"SEARCH" = "Search";
+"DEFAULT_PAGE_FOOTER" = "Set the default page that Cydia opens to.";
 
-		<key>ENABLE_TIMEOUT</key>
-		<string>Enable Timeout</string>
-		<key>SECONDS</key>
-		<string>Sekunden:</string>
+"AUTO_REFRESH_HEADER" = "Auto Refresh";
+"AUTO_REFRESH" = "Disable Auto Refresh";
+"AUTO_REFRESH_FOOTER" = "Prevent Cydia from automatically refreshing.";
 
-		<key>CUSTOMIZE_CYDIA</key>
-		<string>Customize Cydia</string>
-		<key>CUSTOMIZE_CYDIA_FOOTER</key>
-		<string>Werbung entfernen - Entfernt die Werbung, die auf der Startseite von Cydia angezeigt wird.
+"TIMEOUT" = "Timeout";
+"SECONDS" = "Sekunden:";
+"TIMEOUT_FOOTER" = "Gibt die Dauer in Sekunden an, während der Cydia versucht, eine Quelle zu aktualisieren.";
 
-Cancel Button - Adds cancel button to Search tab.</string>
+"BATCH_ADD" = "Batch Add";
+"BATCH_ADD_FOOTER" = "Add multiple repos at once by having them in your clipboard.";
 
-		<key>ENABLE_GLOBAL_TINT</key>
-		<string>Enable Global Tint</string>
-		<key>GLOBAL_TINT_COLOR</key>
-		<string>Global Tint Color:</string>
-		<key>NAVBAR_COLOR</key>
-		<string>Navbar Color:</string>
-		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Tab Bar Selected Color:</string>
-		<key>TABBAR_COLOR</key>
-		<string>Tab Bar Color:</string>
-		<key>REMOVE_ADS</key>
-		<string>Werbung entfernen</string>
-		<key>ENABLE_CANCEL_BUTTON</key>
-		<string>Enable Cancel Button</string>
+"CUSTOMIZE_UI_HEADER" = "Customize UI";
+"GLOBAL_TINT" = "Global Tint";
+"GLOBAL_TINT_COLOR" = "Global Tint Color:";
+"NAVBAR_COLOR" = "Navbar Color:";
+"NAVBAR_TITLE_COLOR" = "Navbar Title Color:";
+"TABBAR_COLOR" = "Tab Bar Color:";
+"TABBAR_SELECTED_COLOR" = "Tab Bar Selected Color:";
+"DARK_KEYBOARD" = "Dark Keyboard";
+"REMOVE_HOMEPAGE_ADS" = "Werbung entfernen";
 
-		<key>INSTALL_SCREEN</key>
-		<string>Installationsbildschirm</string>
+"SEARCH_TAB_HEADER" = "Search Tab";
+"CANCEL_BUTTON" = "Cancel Button";
+"SWIPE_TO_DISMISS" = "Swipe to Dismiss";
+"SEARCH_TAB_FOOTER" = "Swipe down to dismiss the keyboard.";
 
-		<key>REMOVE_BORDER</key>
-		<string>Rahmen entfernen</string>
-		<key>BORDER_COLOR</key>
-		<string>Rahmenfarbe:</string>
-		<key>BACKGROUND_COLOR</key>
-		<string>Hintergrundfarbe:</string>
+"INSTALL_SCREEN_HEADER" = "Installationsbildschirm";
+"REMOVE_BUTTON_BORDER" = "Rahmen entfernen";
+"BUTTON_BORDER_COLOR" = "Rahmenfarbe:";
+"BACKGROUND_COLOR" = "Hintergrundfarbe:";
 
-		<key>POST_INSTALL</key>
-		<string>Post Install</string>
-		<key>POST_INSTALL_FOOTER</key>
-		<string>Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.</string>
+"AUTOFINISH" = "Automatischen Abschluss";
+"VIBRATE" = "Vibrate";
+"AUTOFINISH_FOOTER" = "Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.";
 
-		<key>ENABLE_VIBRATE</key>
-		<string>Enable Vibrate</string>
-		<key>ENABLE_AUTOFINISH</key>
-		<string>Automatischen Abschluss aktivieren</string>		
-
-		<key>SAVE</key>
-		<string>Speichern</string>
-</dict>
-</plist>
+"SAVE" = "Speichern";

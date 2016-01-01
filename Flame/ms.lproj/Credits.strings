@@ -1,14 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-		<key>CREDITS</key>
-		<string>Kredit</string>
-
-		<key>EMAIL</key>
-		<string>Emel</string>
-
-		<key>DONATE</key>
-		<string>Sumbang</string>
-</dict>
-</plist>
+"CREDITS" = "Kredit";
+"EMAIL" = "Emel";
+"DONATE" = "Sumbang";

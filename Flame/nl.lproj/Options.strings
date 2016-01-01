@@ -1,94 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-		<key>OPTIONS</key>
-		<string>Opties</string>
+"OPTIONS" = "Opties";
 
-		<key>APPLY_SETTINGS</key>
-		<string>Instellingen toepassen</string>
-		<key>APPLY_FOOTER</key>
-		<string>De meeste opties worden direct ingeschakeld, maar voor sommige moet Cydia opnieuw opgestart worden.</string>
+"APPLY_SETTINGS" = "Instellingen toepassen";
+"APPLY_FOOTER" = "De meeste opties worden direct ingeschakeld, maar voor sommige moet Cydia opnieuw opgestart worden.";
 
-		<key>DEFAULT_PAGE</key>
-		<string>Standaardpagina</string>
-		<key>HOME</key>
-		<string>Startpagina</string>
-		<key>SOURCES</key>
-		<string>Bronnen</string>
-		<key>CHANGES</key>
-		<string>Wijzigingen</string>
-		<key>INSTALLED</key>
-		<string>Geïnstalleerd</string>
-		<key>SEARCH</key>
-		<string>Zoek</string>
-		<key>DEFAULT_PAGE_FOOTER</key>
-		<string>Kies de pagina waarop Cydia wordt geopend.</string>
-		
-		<key>AUTO_REFRESH_HEADER</key>
-		<string>Automatisch verversen</string>
-		<key>AUTO_REFRESH</key>
-		<string>Automatisch verversen uitschakelen</string>
-		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Laat Cydia niet automatisch verversen.</string>
+"DEFAULT_PAGE" = "Standaardpagina";
+"HOME" = "Startpagina";
+"SOURCES" = "Bronnen";
+"CHANGES" = "Wijzigingen";
+"INSTALLED" = "Geïnstalleerd";
+"SEARCH" = "Zoek";
+"DEFAULT_PAGE_FOOTER" = "Kies de pagina waarop Cydia wordt geopend.";
 
-		<key>TIMEOUT</key>
-		<string>Wachttijd</string>
-		<key>SECONDS</key>
-		<string>Seconden:</string>
-		<key>TIMEOUT_FOOTER</key>
-		<string>Laat Cydia maar een bepaald aantal seconden wachten bij het verversen van elke bron.</string>
+"AUTO_REFRESH_HEADER" = "Automatisch verversen";
+"AUTO_REFRESH" = "Automatisch verversen uitschakelen";
+"AUTO_REFRESH_FOOTER" = "Laat Cydia niet automatisch verversen.";
 
-		<key>BATCH_ADD</key>
-		<string>Meerdere toevoegen</string>
-		<key>BATCH_ADD_FOOTER</key>
-		<string>Voeg meerdere repositories tegelijk toe door ze op het klembord the hebben.</string>
+"TIMEOUT" = "Wachttijd";
+"SECONDS" = "Seconden:";
+"TIMEOUT_FOOTER" = "Laat Cydia maar een bepaald aantal seconden wachten bij het verversen van elke bron.";
 
-		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>UI aanpassen</string>
-		<key>GLOBAL_TINT</key>
-		<string>Globale tint</string>
-		<key>GLOBAL_TINT_COLOR</key>
-		<string>Kleur van de globale tint:</string>
-		<key>NAVBAR_COLOR</key>
-		<string>Kleur van de navigatiebalk:</string>
-		<key>NAVBAR_TITLE_COLOR</key>
-		<string>Kleur van de navigatiebalktitel:</string>
-		<key>TABBAR_COLOR</key>
-		<string>Kleur van de tabbalk:</string>
-		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Kleur van geselecteerd tabblad:</string>
-		<key>DARK_KEYBOARD</key>
-		<string>Donker toetsenbord</string>
-		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>Startpaginaadvertenties weghalen</string>
+"BATCH_ADD" = "Meerdere toevoegen";
+"BATCH_ADD_FOOTER" = "Voeg meerdere repositories tegelijk toe door ze op het klembord the hebben.";
 
-		<key>SEARCH_TAB_HEADER</key>
-		<string>Zoektabblad</string>
-		<key>CANCEL_BUTTON</key>
-		<string>Annuleerknop</string>
-		<key>SWIPE_TO_DISMISS</key>
-		<string>Wegslepen</string>
-		<key>SEARCH_TAB_FOOTER</key>
-		<string>Sleep met een vinger naar beneden om het toetsenbord te sluiten.</string>
+"CUSTOMIZE_UI_HEADER" = "UI aanpassen";
+"GLOBAL_TINT" = "Globale tint";
+"GLOBAL_TINT_COLOR" = "Kleur van de globale tint:";
+"NAVBAR_COLOR" = "Kleur van de navigatiebalk:";
+"NAVBAR_TITLE_COLOR" = "Kleur van de navigatiebalktitel:";
+"TABBAR_COLOR" = "Kleur van de tabbalk:";
+"TABBAR_SELECTED_COLOR" = "Kleur van geselecteerd tabblad:";
+"DARK_KEYBOARD" = "Donker toetsenbord";
+"REMOVE_HOMEPAGE_ADS" = "Startpaginaadvertenties weghalen";
 
-		<key>INSTALL_SCREEN_HEADER</key>
-		<string>Installatiescherm</string>
-		<key>REMOVE_BUTTON_BORDER</key>
-		<string>Knoprand weghalen</string>
-		<key>BUTTON_BORDER_COLOR</key>
-		<string>Knoprandkleur:</string>
-		<key>BACKGROUND_COLOR</key>
-		<string>Achtergrondkleur:</string>
+"SEARCH_TAB_HEADER" = "Zoektabblad";
+"CANCEL_BUTTON" = "Annuleerknop";
+"SWIPE_TO_DISMISS" = "Wegslepen";
+"SEARCH_TAB_FOOTER" = "Sleep met een vinger naar beneden om het toetsenbord te sluiten.";
 
-		<key>AUTOFINISH</key>
-		<string>Automatisch voltooien</string>
-		<key>VIBRATE</key>
-		<string>Trillen</string>
-		<key>AUTOFINISH_FOOTER</key>
-		<string>Respringt, herstart, of gaat automatisch naar Cydia terug na een aantal seconden.</string>
+"INSTALL_SCREEN_HEADER" = "Installatiescherm";
+"REMOVE_BUTTON_BORDER" = "Knoprand weghalen";
+"BUTTON_BORDER_COLOR" = "Knoprandkleur:";
+"BACKGROUND_COLOR" = "Achtergrondkleur:";
 
-		<key>SAVE</key>
-		<string>Opslaan</string>
-</dict>
-</plist>
+"AUTOFINISH" = "Automatisch voltooien";
+"VIBRATE" = "Trillen"
+"AUTOFINISH_FOOTER" = "Respringt, herstart, of gaat automatisch naar Cydia terug na een aantal seconden.";
+
+"SAVE" = "Opslaan";

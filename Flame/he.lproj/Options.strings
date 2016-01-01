@@ -1,79 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-		<key>OPTIONS</key>
-		<string>אופציות</string>
+"OPTIONS" = "אופציות";
 
-		<key>APPLY_SETTINGS</key>
-		<string>החל הגדרות</string>
-		<key>APPLY_FOOTER</key>
-		<string>את רוב האופציות ניתן להפעיל בלי ריענון, אך חלק מהן דורשות לרענן את סידיה כדי להפעיל.</string>
+"APPLY_SETTINGS" = "החל הגדרות";
+"APPLY_FOOTER" = "את רוב האופציות ניתן להפעיל בלי ריענון, אך חלק מהן דורשות לרענן את סידיה כדי להפעיל.";
 
-		<key>AUTO_REFRESH_HEADER</key>
-		<string>ריענון אוטומטי</string>
-		<key>AUTO_REFRESH</key>
-		<string>כבה ריענון אוטומטי</string>
-		<key>AUTO_REFRESH_FOOTER</key>
-		<string>מונע מסידיה לרענן אוטומטית.</string>
+"DEFAULT_PAGE" = "Default Page";
+"HOME" = "Home";
+"SOURCES" = "Sources";
+"CHANGES" = "Changes";
+"INSTALLED" = "Installed";
+"SEARCH" = "Search";
+"DEFAULT_PAGE_FOOTER" = "Set the default page that Cydia opens to.";
 
-		<key>TIMEOUT</key>
-		<string>הגבלת זמן</string>
-		<key>SECONDS</key>
-		<string>שניות:</string>
-		<key>TIMEOUT_FOOTER</key>
-		<string>מכריח את סידיה לאפשר רק מספר שניות מוגדר לרענון כל מקור.</string>
+"AUTO_REFRESH_HEADER" = "ריענון אוטומט";
+"AUTO_REFRESH" = "כבה ריענון אוטומטי";
+"AUTO_REFRESH_FOOTER" = "מונע מסידיה לרענן אוטומטית.";
 
-		<key>BATCH_ADD</key>
-		<string>הוספה מרובה</string>
-		<key>BATCH_ADD_FOOTER</key>
-		<string>מוסיף מספר מקורות בבת אחת בכך שהם מועתקים מראש.</string>
+"TIMEOUT" = "הגבלת זמ";
+"SECONDS" = "שניות:";
+"TIMEOUT_FOOTER" = "מכריח את סידיה לאפשר רק מספר שניות מוגדר לרענון כל מקור.";
 
-		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>התאם אישית ממשק</string>
-		<key>GLOBAL_TINT</key>
-		<string>גוון גלובלי</string>
-		<key>GLOBAL_TINT_COLOR</key>
-		<string>צבע גוון גלובלי:</string>
-		<key>NAVBAR_COLOR</key>
-		<string>צבע שורת ניווט:</string>
-		<key>NAVBAR_TITLE_COLOR</key>
-		<string>צבע כותרת שורת ניווט:</string>
-		<key>TABBAR_COLOR</key>
-		<string>צבע שורת כרטיסיות:</string>
-		<key>TABBAR_SELECTED_COLOR</key>
-		<string>צבע בחירה בשורת כרטיסיות:</string>
-		<key>DARK_KEYBOARD</key>
-		<string>מקלדת שחורה</string>
-		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>הסר מודעות ממסך הבית</string>
+"BATCH_ADD" = "הוספה מרובה";
+"BATCH_ADD_FOOTER" = "מוסיף מספר מקורות בבת אחת בכך שהם מועתקים מראש.";
 
-		<key>SEARCH_TAB_HEADER</key>
-		<string>כרטיסיית החיפוש</string>
-		<key>CANCEL_BUTTON</key>
-		<string>כפתור ביטול</string>
-		<key>SWIPE_TO_DISMISS</key>
-		<string>החלק להסתרה</string>
-		<key>SEARCH_TAB_FOOTER</key>
-		<string>החלקה למטה מסתירה את המקלדת.</string>
+"CUSTOMIZE_UI_HEADER" = "התאם אישית ממשק";
+"GLOBAL_TINT" = "גוון גלובלי";
+"GLOBAL_TINT_COLOR" = "צבע גוון גלובל:";
+"NAVBAR_COLOR" = "צבע שורת ניווט:";
+"NAVBAR_TITLE_COLOR" = "צבע כותרת שורת ניווט:";
+"TABBAR_COLOR" = "צבע שורת כרטיסיות:";
+"TABBAR_SELECTED_COLOR" = "צבע בחירה בשורת כרטיסיות:";
+"DARK_KEYBOARD" = "מקלדת שחורה";
+"REMOVE_HOMEPAGE_ADS" = "הסר מודעות ממסך הבית";
 
-		<key>INSTALL_SCREEN_HEADER</key>
-		<string>מסך התקנה</string>
-		<key>REMOVE_BUTTON_BORDER</key>
-		<string>הסר מסגרת כפתור</string>
-		<key>BUTTON_BORDER_COLOR</key>
-		<string>צבע מסגרת כפתור:</string>
-		<key>BACKGROUND_COLOR</key>
-		<string>צבע רקע:</string>
+"SEARCH_TAB_HEADER" = "כרטיסיית החיפוש";
+"CANCEL_BUTTON" = "כפתור ביטול";
+"SWIPE_TO_DISMISS" = "החלק להסתרה";
+"SEARCH_TAB_FOOTER" = "החלקה למטה מסתירה את המקלדת.";
 
-		<key>AUTOFINISH</key>
-		<string>סיום אוטומטי</string>
-		<key>VIBRATE</key>
-		<string>רטט</string>
-		<key>AUTOFINISH_FOOTER</key>
-		<string>מפעיל אוטומטית ריספרינג, הפעלה מחדש, או חוזר לסידיה אחרי מספר מסויים של שניות.</string>
+"INSTALL_SCREEN_HEADER" = "מסך התקנה";
+"REMOVE_BUTTON_BORDER" = "הסר מסגרת כפתור";
+"BUTTON_BORDER_COLOR" = "צבע מסגרת כפתור:";
+"BACKGROUND_COLOR" = "צבע רקע:";
 
-		<key>SAVE</key>
-		<string>שמור</string>
-</dict>
-</plist>
+"AUTOFINISH" = "סיום אוטומטי";
+"VIBRATE" = "רטט";
+"AUTOFINISH_FOOTER" = "מפעיל אוטומטית ריספרינג, הפעלה מחדש, או חוזר לסידיה אחרי מספר מסויים של שניות.";
+
+"SAVE" = "שמור";

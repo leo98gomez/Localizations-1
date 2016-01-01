@@ -1,94 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-		<key>OPTIONS</key>
-		<string>Opciones</string>
+"OPTIONS" = "Opciones";
 
-		<key>APPLY_SETTINGS</key>
-		<string>Aplicar configuración</string>
-		<key>APPLY_FOOTER</key>
-		<string>La mayoría de opciones se pueden aplicar de seguida, pero para algunas es necesario reiniciar Cydia.</string>
+"APPLY_SETTINGS" = "Aplicar configuración";
+"APPLY_FOOTER" = "La mayoría de opciones se pueden aplicar de seguida, pero para algunas es necesario reiniciar Cydia.";
 
-		<key>DEFAULT_PAGE</key>
-		<string>Página predeterminada</string>
-		<key>HOME</key>
-		<string>Página de inicio</string>
-		<key>SOURCES</key>
-		<string>Fuentes</string>
-		<key>CHANGES</key>
-		<string>Cambios</string>
-		<key>INSTALLED</key>
-		<string>Instalado</string>
-		<key>SEARCH</key>
-		<string>Buscar</string>
-		<key>DEFAULT_PAGE_FOOTER</key>
-		<string>Cuando se abre Cydia se verá la página seleccionada.</string>
-		
-		<key>AUTO_REFRESH_HEADER</key>
-		<string>Refresco automático</string>
-		<key>AUTO_REFRESH</key>
-		<string>Deshabilitar el refreso automático</string>
-		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Hacer que Cydia no refresque automáticamente.</string>
+"DEFAULT_PAGE" = "Página predeterminada";
+"HOME" = "Página de inicio";
+"SOURCES" = "Fuentes";
+"CHANGES" = "Cambios";
+"INSTALLED" = "Instalado";
+"SEARCH" = "Buscar";
+"DEFAULT_PAGE_FOOTER" = "Cuando se abre Cydia se verá la página seleccionada.";
 
-		<key>TIMEOUT</key>
-		<string>Tiempo de espera</string>
-		<key>SECONDS</key>
-		<string>Segundos:</string>
-		<key>TIMEOUT_FOOTER</key>
-		<string>Forzar Cydia a no estarse más de un determinado número de segundos refrescando cada fuente.</string>
+"AUTO_REFRESH_HEADER" = "Refresco automático";
+"AUTO_REFRESH" = "Deshabilitar el refreso automático";
+"AUTO_REFRESH_FOOTER" = "Hacer que Cydia no refresque automáticamente.";
 
-		<key>BATCH_ADD</key>
-		<string>Añadir múltiples</string>
-		<key>BATCH_ADD_FOOTER</key>
-		<string>Añadir más de un repositorio a la vez teniéndolos el portapapeles.</string>
+"TIMEOUT" = "Tiempo de espera";
+"SECONDS" = "Segundos:";
+"TIMEOUT_FOOTER" = "Forzar Cydia a no estarse más de un determinado número de segundos refrescando cada fuente.";
 
-		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>Personalizar interfície</string>
-		<key>GLOBAL_TINT</key>
-		<string>Tinto global</string>
-		<key>GLOBAL_TINT_COLOR</key>
-		<string>Color de tinto global:</string>
-		<key>NAVBAR_COLOR</key>
-		<string>Color de la barra de navegación:</string>
-		<key>NAVBAR_TITLE_COLOR</key>
-		<string>Color del título de navegación:</string>
-		<key>TABBAR_COLOR</key>
-		<string>Color de la barra de pestañas:</string>
-		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Color de la pestaña seleccionada:</string>
-		<key>DARK_KEYBOARD</key>
-		<string>Teclado oscuro</string>
-		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>Eliminar anuncios de la página de inicio</string>
+"BATCH_ADD" = "Añadir múltiples";
+"BATCH_ADD_FOOTER" = "Añadir más de un repositorio a la vez teniéndolos el portapapeles.";
 
-		<key>SEARCH_TAB_HEADER</key>
-		<string>Pestaña de búsqueda</string>
-		<key>CANCEL_BUTTON</key>
-		<string>Botón de cancelar</string>
-		<key>SWIPE_TO_DISMISS</key>
-		<string>Arrastrar para cerrar</string>
-		<key>SEARCH_TAB_FOOTER</key>
-		<string>Arrastrar el dedo abajo para cerrar el teclado.</string>
+"CUSTOMIZE_UI_HEADER" = "Personalizar interfície";
+"GLOBAL_TINT" = "Tinto global";
+"GLOBAL_TINT_COLOR" = "Color de tinto global:";
+"NAVBAR_COLOR" = "Color de la barra de navegación:";
+"NAVBAR_TITLE_COLOR" = "Color del título de navegación:";
+"TABBAR_COLOR" = "Color de la barra de pestañas:";
+"TABBAR_SELECTED_COLOR" = "Color de la pestaña seleccionada:";
+"DARK_KEYBOARD" = "Teclado oscuro";
+"REMOVE_HOMEPAGE_ADS" = "Eliminar anuncios de la página de inicio";
 
-		<key>INSTALL_SCREEN_HEADER</key>
-		<string>Pantalla de instalación</string>
-		<key>REMOVE_BUTTON_BORDER</key>
-		<string>Eliminar borde del botón</string>
-		<key>BUTTON_BORDER_COLOR</key>
-		<string>Color del borde del botón:</string>
-		<key>BACKGROUND_COLOR</key>
-		<string>Color de fondo:</string>
+"SEARCH_TAB_HEADER" = "Pestaña de búsqueda";
+"CANCEL_BUTTON" = "Botón de cancelar";
+"SWIPE_TO_DISMISS" = "Arrastrar para cerrar";
+"SEARCH_TAB_FOOTER" = "Arrastrar el dedo abajo para cerrar el teclado.";
 
-		<key>AUTOFINISH</key>
-		<string>Acabar automáticamente</string>
-		<key>VIBRATE</key>
-		<string>Vibrar</string>
-		<key>AUTOFINISH_FOOTER</key>
-		<string>Reinicia el SpringBoard o el dispositivo, o vuelve a Cydia después de un número de segundos determinado.</string>
+"INSTALL_SCREEN_HEADER" = "Pantalla de instalación";
+"REMOVE_BUTTON_BORDER" = "Eliminar borde del botón";
+"BUTTON_BORDER_COLOR" = "Color del borde del botón:";
+"BACKGROUND_COLOR" = "Color de fondo:";
 
-		<key>SAVE</key>
-		<string>Guardar</string>
-</dict>
-</plist>
+"AUTOFINISH" = "Acabar automáticamente";
+"VIBRATE" = "Vibrar";
+"AUTOFINISH_FOOTER" = "Reinicia el SpringBoard o el dispositivo, o vuelve a Cydia después de un número de segundos determinado.";
+
+"SAVE" = "Guardar";

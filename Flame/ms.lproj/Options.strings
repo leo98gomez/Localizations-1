@@ -1,79 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-		<key>OPTIONS</key>
-		<string>Pilihan</string>
+"OPTIONS" = "Pilihan";
 
-		<key>APPLY_SETTINGS</key>
-		<string>Ubah Pertukaran</string>
-		<key>APPLY_FOOTER</key>
-		<string>Kebanyakkan pilihan boleh diubah secara langsung, tapi beberapa pilihan memerlukan Cydia dibuka semula untuk perubahan berlaku.</string>
+"APPLY_SETTINGS" = "Ubah Pertukaran";
+"APPLY_FOOTER" = "Kebanyakkan pilihan boleh diubah secara langsung, tapi beberapa pilihan memerlukan Cydia dibuka semula untuk perubahan berlaku.";
 
-		<key>AUTO_REFRESH_HEADER</key>
-		<string>Refresh Sendiri</string>
-		<key>AUTO_REFRESH</key>
-		<string>Mansuhkan Refresh Sendiri</string>
-		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Halang Cydia dari refresh dengan sendiri.</string>
+"AUTO_REFRESH_HEADER" = "Refresh Sendiri";
+"AUTO_REFRESH" = "Mansuhkan Refresh Sendiri";
+"AUTO_REFRESH_FOOTER" = "Halang Cydia dari refresh dengan sendiri.";
 
-		<key>TIMEOUT</key>
-		<string>Masa tamat</string>
-		<key>SECONDS</key>
-		<string>Saat:</string>
-		<key>TIMEOUT_FOOTER</key>
-		<string>Paksa Cydia untuk mengambil masa beberapa saat untuk cuba refresh setiap sumber.</string>
-		
-		<key>BATCH_ADD</key>
-		<string>Tambah Kelompok</string>
-		<key>BATCH_ADD_FOOTER</key>
-		<string>Tambah beberapa repo dalam masa sekali dengan by having them in your clipboard.</string>
+"TIMEOUT" = "Masa tamat";
+"SECONDS" = "Saat:";
+"TIMEOUT_FOOTER" = "Paksa Cydia untuk mengambil masa beberapa saat untuk cuba refresh setiap sumber.";
 
-		<key>CUSTOMIZE_UI_HEADER</key>
-		<string>Ubah suai UI</string>
-		<key>GLOBAL_TINT</key>
-		<string>Semua Tint</string>
-		<key>GLOBAL_TINT_COLOR</key>
-		<string>Semua Warna Tint:</string>
-		<key>NAVBAR_COLOR</key>
-		<string>Warna Navbar:</string>
-		<key>NAVBAR_TITLE_COLOR</key>
-		<string>Warna Tajuk Navbar:</string>
-		<key>TABBAR_COLOR</key>
-		<string>Warna Bar Tab:</string>
-		<key>TABBAR_SELECTED_COLOR</key>
-		<string>Warna Bar Tab Terpilih:</string>
-		<key>DARK_KEYBOARD</key>
-		<string>Kekunci Gelap</string>
-		<key>REMOVE_HOMEPAGE_ADS</key>
-		<string>Buang Ad MukaRumah</string>
-		
-		<key>SEARCH_TAB_HEADER</key>
-		<string>Tab Carian</string>
-		<key>CANCEL_BUTTON</key>
-		<string>Butang Batal</string>
-		<key>SWIPE_TO_DISMISS</key>
-		<string>Sapu untuk Tamat</string>
-		<key>SEARCH_TAB_FOOTER</key>
-		<string>Sapu bawah untuk sorokkan kekunci.</string>
-		
-		<key>INSTALL_SCREEN_HEADER</key>
-		<string>Skrin Pemasangan</string>
-		<key>REMOVE_BUTTON_BORDER</key>
-		<string>Buang Dinding Butang</string>
-		<key>BUTTON_BORDER_COLOR</key>
-		<string>Warna Dinding Butang:</string>
-		<key>BACKGROUND_COLOR</key>
-		<string>Warna Latar:</string>
+"BATCH_ADD" = "Tambah Kelompok";
+"BATCH_ADD_FOOTER" = "Tambah beberapa repo dalam masa sekali dengan by having them in your clipboard.";
 
-		<key>AUTOFINISH</key>
-		<string>Habiskan Terus</string>
-		<key>VIBRATE</key>
-		<string>Bergetar</string>
-		<key>AUTOFINISH_FOOTER</key>
-		<string>Terus resprings, reboots, atau kembali ke Cydia selepas saat yang ditetapkan.</string>		
+"CUSTOMIZE_UI_HEADER" = "Ubah suai UI";
+"GLOBAL_TINT" = "Semua Tint";
+"GLOBAL_TINT_COLOR" = "Semua Warna Tint:";
+"NAVBAR_COLOR" = "Warna Navbar:";
+"NAVBAR_TITLE_COLOR" = "Warna Tajuk Navbar:";
+"TABBAR_COLOR" = "Warna Bar Tab:";
+"TABBAR_SELECTED_COLOR" = "Warna Bar Tab Terpilih:";
+"DARK_KEYBOARD" = "Kekunci Gelap";
+"REMOVE_HOMEPAGE_ADS" = "Buang Ad MukaRumah";
 
-		<key>SAVE</key>
-		<string>Simpan</string>
-</dict>
-</plist>
+"SEARCH_TAB_HEADER" = "Tab Carian";
+"CANCEL_BUTTON" = "Butang Batal";
+"SWIPE_TO_DISMISS" = "Sapu untuk Tamat";
+"SEARCH_TAB_FOOTER" = "Sapu bawah untuk sorokkan kekunci.";
+
+"INSTALL_SCREEN_HEADER" = "Skrin Pemasangan";
+"REMOVE_BUTTON_BORDER" = "Buang Dinding Butang";
+"BUTTON_BORDER_COLOR" = "Warna Dinding Butang:";
+"BACKGROUND_COLOR" = "Warna Latar:"
+
+"AUTOFINISH" = "Habiskan Terus";
+"VIBRATE" = "Bergetar";
+"AUTOFINISH_FOOTER" = "Terus resprings, reboots, atau kembali ke Cydia selepas saat yang ditetapkan.";
+
+"SAVE" = "Simpan";
