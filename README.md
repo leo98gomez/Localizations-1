@@ -12,6 +12,7 @@ Thank you very much!
 * ar.lproj - Abo-bs
 * ca.lproj - /u/Q-Quan
 * es.lproj - /u/Q-Quan
+* hu.lproj - /u/benciikee
 * nb.lproj - kissorjeyabalan
 * nl.lproj - /u/Q-Quan
 * pl.lproj - lyratriescoding
@@ -22,5 +23,4 @@ Thank you very much!
 ###Incomplete
 * de.lproj - /u/\_pixxaddict\_
 * he.lproj - /u/Aransh
-* hu.lproj - /u/benciikee
 * ms.lproj - /u/redzrex
