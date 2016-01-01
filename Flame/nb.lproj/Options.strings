@@ -11,7 +11,7 @@
 		<string>De fleste instillingene trer i kraft umiddelbart, men noen krever at Cydia må startes på nytt for å tre i kraft.</string>
 
 		<key>DEFAULT_PAGE</key>
-		<string>Standard Side</string>
+		<string>Startside</string>
 		<key>HOME</key>
 		<string>Hjem</string>
 		<key>SOURCES</key>
@@ -19,25 +19,25 @@
 		<key>CHANGES</key>
 		<string>Endringer</string>
 		<key>INSTALLED</key>
-		<string>Installer</string>
+		<string>Installert</string>
 		<key>SEARCH</key>
 		<string>Søk</string>
 		<key>DEFAULT_PAGE_FOOTER</key>
-		<string>Angi standadr side som Cydia åpnes til.</string>
+		<string>Angi hvilken side Cydia skal åpnes til.</string>
 
 		<key>AUTO_REFRESH_HEADER</key>
 		<string>Auto Oppdater</string>
 		<key>AUTO_REFRESH</key>
 		<string>Deaktiver autoppdatering</string>
 		<key>AUTO_REFRESH_FOOTER</key>
-		<string>Forhindrer Cydia fra å oppdatere automatisk.</string>
+		<string>Forhindrer Cydia fra å oppdatere seg automatisk.</string>
 
 		<key>TIMEOUT</key>
 		<string>Tidsavbrudd</string>
 		<key>SECONDS</key>
 		<string>Sekunder:</string>
 		<key>TIMEOUT_FOOTER</key>
-		<string>Tving Cydia til å bruke bestemt antall sekunder på hver kilde som oppdateres.</string>
+		<string>Tving Cydia til å bruke et bestemt antall sekunder på hver kilde som oppdateres.</string>
 
 		<key>BATCH_ADD</key>
 		<string>Batch Add</string>
