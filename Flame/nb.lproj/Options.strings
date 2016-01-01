@@ -1,23 +1,23 @@
 "OPTIONS" = "Alternativer";
 
 "APPLY_SETTINGS" = "Bruk instillinger";
-"APPLY_FOOTER" = "De fleste instillingene trer i kraft umiddelbart, men noen krever at Cydia må startes på nytt for å tre i kraft.";
+"APPLY_FOOTER" = "De fleste instillinger trer i kraft umiddelbart, men noen krever at Cydia må startes på nytt for å tre i kraft.";
 
-"DEFAULT_PAGE" = "Standard Side";
+"DEFAULT_PAGE" = "Startside";
 "HOME" = "Hjem";
 "SOURCES" = "Kilder";
 "CHANGES" = "Endringer";
-"INSTALLED" = "Installer";
+"INSTALLED" = "Installert";
 "SEARCH" = "Søk";
-"DEFAULT_PAGE_FOOTER" = "Angi standadr side som Cydia åpnes til.";
+"DEFAULT_PAGE_FOOTER" = "Angi siden Cydia skal åpnes til.";
 
 "AUTO_REFRESH_HEADER" = "Auto Oppdater";
 "AUTO_REFRESH" = "Deaktiver autoppdatering";
-"AUTO_REFRESH_FOOTER" = "Forhindrer Cydia fra å oppdatere automatisk.";
+"AUTO_REFRESH_FOOTER" = "Forhindrer Cydia fra å oppdatere kilder automatisk.";
 
 "TIMEOUT" = "Tidsavbrudd";
 "SECONDS" = "Sekunder:";
-"TIMEOUT_FOOTER" = "Tving Cydia til å bruke bestemt antall sekunder på hver kilde som oppdateres.";
+"TIMEOUT_FOOTER" = "Tving Cydia til å bruke et bestemt antall sekunder på hver kilde som oppdateres.";
 
 "BATCH_ADD" = "Batch Add";
 "BATCH_ADD_FOOTER" = "Legg til flere repo samtidig ved å ha dem i utklippstavlen din.";
@@ -37,7 +37,7 @@
 "SWIPE_TO_DISMISS" = "Sveip for å lukke";
 "SEARCH_TAB_FOOTER" = "Sveip ned for å skjule tastaturet.";
 
-"INSTALL_SCREEN_HEADER" = "Installerings Skjerm";
+"INSTALL_SCREEN_HEADER" = "Installeringsskjerm";
 "REMOVE_BUTTON_BORDER" = "Fjern Knappekant";
 "BUTTON_BORDER_COLOR" = "Knappekant Farge:";
 "BACKGROUND_COLOR" = "Bakgrunnsfarge:";
