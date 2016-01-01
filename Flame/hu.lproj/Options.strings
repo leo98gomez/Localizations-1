@@ -3,6 +3,14 @@
 "APPLY_SETTINGS" = "Beállítások Alkalmazása";
 "APPLY_FOOTER" = "A legtöbb beállítás egybõl érvényesül, de néhányhoz újra kell indítani a Cydia-t.";
 
+"DEFAULT_PAGE" = "Alapértelmezett oldal";
+"HOME" = "Kezdõlap";
+"SOURCES" = "Források";
+"CHANGES" = "Változások";
+"INSTALLED" = "Telepített";
+"SEARCH" = "Keresés";
+"DEFAULT_PAGE_FOOTER" = "Állítsd be azt az oldalt, amellyel induljon a Cydia.";
+
 "AUTO_REFRESH_HEADER" = "Automatikus frissítés";
 "AUTO_REFRESH" = "Automatikus Frissítés Kikapcsolás";
 "AUTO_REFRESH_FOOTER" = "Automatikus Frissítés tiltása a Cydia-ban.";
