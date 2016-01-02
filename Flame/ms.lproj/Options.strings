@@ -12,7 +12,7 @@
 "TIMEOUT_FOOTER" = "Paksa Cydia untuk mengambil masa beberapa saat untuk cuba refresh setiap sumber.";
 
 "BATCH_ADD" = "Tambah Kelompok";
-"BATCH_ADD_FOOTER" = "Tambah beberapa repo dalam masa sekali dengan by having them in your clipboard.";
+"BATCH_ADD_FOOTER" = "Tambah beberapa repo dalam masa sekali dengan apa yang ada didalam clipboard.";
 
 "CUSTOMIZE_UI_HEADER" = "Ubah suai UI";
 "GLOBAL_TINT" = "Semua Tint";
@@ -22,12 +22,12 @@
 "TABBAR_COLOR" = "Warna Bar Tab:";
 "TABBAR_SELECTED_COLOR" = "Warna Bar Tab Terpilih:";
 "DARK_KEYBOARD" = "Kekunci Gelap";
-"REMOVE_HOMEPAGE_ADS" = "Buang Ad MukaRumah";
+"REMOVE_HOMEPAGE_ADS" = "Buang Iklan MukaRumah";
 
 "SEARCH_TAB_HEADER" = "Tab Carian";
 "CANCEL_BUTTON" = "Butang Batal";
 "SWIPE_TO_DISMISS" = "Sapu untuk Tamat";
-"SEARCH_TAB_FOOTER" = "Sapu bawah untuk sorokkan kekunci.";
+"SEARCH_TAB_FOOTER" = "Sapu bawah untuk sorokkan papan kekunci.";
 
 "INSTALL_SCREEN_HEADER" = "Skrin Pemasangan";
 "REMOVE_BUTTON_BORDER" = "Buang Dinding Butang";
