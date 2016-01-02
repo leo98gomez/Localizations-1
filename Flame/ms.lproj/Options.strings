@@ -32,7 +32,7 @@
 "INSTALL_SCREEN_HEADER" = "Skrin Pemasangan";
 "REMOVE_BUTTON_BORDER" = "Buang Dinding Butang";
 "BUTTON_BORDER_COLOR" = "Warna Dinding Butang:";
-"BACKGROUND_COLOR" = "Warna Latar:"
+"BACKGROUND_COLOR" = "Warna Latar:";
 
 "AUTOFINISH" = "Habiskan Terus";
 "VIBRATE" = "Bergetar";

@@ -43,7 +43,7 @@
 "BACKGROUND_COLOR" = "Achtergrondkleur:";
 
 "AUTOFINISH" = "Automatisch voltooien";
-"VIBRATE" = "Trillen"
+"VIBRATE" = "Trillen";
 "AUTOFINISH_FOOTER" = "Respringt, herstart, of gaat automatisch naar Cydia terug na een aantal seconden.";
 
 "SAVE" = "Opslaan";
