@@ -3,47 +3,47 @@
 "APPLY_SETTINGS" = "Einstellungen übernehmen";
 "APPLY_FOOTER" = "Die meisten Einstellungen werden sofort übernommen, einige jedoch erfordern einen Neustart von Cydia.";
 
-"DEFAULT_PAGE" = "Default Page";
-"HOME" = "Home";
-"SOURCES" = "Sources";
-"CHANGES" = "Changes";
-"INSTALLED" = "Installed";
-"SEARCH" = "Search";
-"DEFAULT_PAGE_FOOTER" = "Set the default page that Cydia opens to.";
+"DEFAULT_PAGE" = "Standard-Tab";
+"HOME" = "Startseite";
+"SOURCES" = "Quellen";
+"CHANGES" = "Änderungen";
+"INSTALLED" = "Installiert";
+"SEARCH" = "Suche";
+"DEFAULT_PAGE_FOOTER" = "Legt den Standard-Tab fest, der beim Start von Cydia als erstes angezeigt werden soll.";
 
-"AUTO_REFRESH_HEADER" = "Auto Refresh";
-"AUTO_REFRESH" = "Disable Auto Refresh";
-"AUTO_REFRESH_FOOTER" = "Prevent Cydia from automatically refreshing.";
+"AUTO_REFRESH_HEADER" = "Automatische Aktualisierung";
+"AUTO_REFRESH" = "'Auto-Refresh' deaktivieren";
+"AUTO_REFRESH_FOOTER" = "Verhindert die automatische Datenaktualisierung in Cydia.";
 
 "TIMEOUT" = "Timeout";
 "SECONDS" = "Sekunden:";
 "TIMEOUT_FOOTER" = "Gibt die Dauer in Sekunden an, während der Cydia versucht, eine Quelle zu aktualisieren.";
 
-"BATCH_ADD" = "Batch Add";
-"BATCH_ADD_FOOTER" = "Add multiple repos at once by having them in your clipboard.";
+"BATCH_ADD" = "Mehrfaches Hinzufügen";
+"BATCH_ADD_FOOTER" = "Erlaubt das Hinzufügen von mehreren Quellen auf einmal, wenn sich diese in der Zwischenablage befinden.";
 
-"CUSTOMIZE_UI_HEADER" = "Customize UI";
-"GLOBAL_TINT" = "Global Tint";
-"GLOBAL_TINT_COLOR" = "Global Tint Color:";
-"NAVBAR_COLOR" = "Navbar Color:";
-"NAVBAR_TITLE_COLOR" = "Navbar Title Color:";
-"TABBAR_COLOR" = "Tab Bar Color:";
-"TABBAR_SELECTED_COLOR" = "Tab Bar Selected Color:";
-"DARK_KEYBOARD" = "Dark Keyboard";
+"CUSTOMIZE_UI_HEADER" = "UI anpassen";
+"GLOBAL_TINT" = "Globaler Tint";
+"GLOBAL_TINT_COLOR" = "Tint-Farbe:";
+"NAVBAR_COLOR" = "Navbar-Farbe:";
+"NAVBAR_TITLE_COLOR" = "Navbar-Titel-Farbe:";
+"TABBAR_COLOR" = "Tab Bar-Farbe:";
+"TABBAR_SELECTED_COLOR" = "Tab Bar-Auswahl-Farbe:";
+"DARK_KEYBOARD" = "Dunkle Tastatur";
 "REMOVE_HOMEPAGE_ADS" = "Werbung entfernen";
 
-"SEARCH_TAB_HEADER" = "Search Tab";
-"CANCEL_BUTTON" = "Cancel Button";
-"SWIPE_TO_DISMISS" = "Swipe to Dismiss";
-"SEARCH_TAB_FOOTER" = "Swipe down to dismiss the keyboard.";
+"SEARCH_TAB_HEADER" = "Suche-Tab";
+"CANCEL_BUTTON" = "Abbrechen-Button";
+"SWIPE_TO_DISMISS" = "'Swipe to Dismiss'";
+"SEARCH_TAB_FOOTER" = "Erlaubt das Ausblenden der Tastatur bei einem Wischen nach unten.";
 
 "INSTALL_SCREEN_HEADER" = "Installationsbildschirm";
 "REMOVE_BUTTON_BORDER" = "Rahmen entfernen";
 "BUTTON_BORDER_COLOR" = "Rahmenfarbe:";
 "BACKGROUND_COLOR" = "Hintergrundfarbe:";
 
-"AUTOFINISH" = "Automatischen Abschluss";
-"VIBRATE" = "Vibrate";
-"AUTOFINISH_FOOTER" = "Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.";
+"AUTOFINISH" = "Automatischer Abschluss";
+"VIBRATE" = "Vibration";
+"AUTOFINISH_FOOTER" = "Führt automatisch Resprings oder Neustarts sowie das Schließen des Installationsbildschirms durch, wenn die Installation beendet wurde.";
 
 "SAVE" = "Speichern";
