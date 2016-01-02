@@ -11,6 +11,7 @@ Thank you very much!
 ###Completed
 * ar.lproj - Abo-bs
 * ca.lproj - /u/Q-Quan
+* de.lproj - /u/\_pixxaddict\_
 * es.lproj - /u/Q-Quan
 * hu.lproj - /u/benciikee
 * id.lproj - /u/kpratama24
@@ -22,6 +23,5 @@ Thank you very much!
 * zh_TW.lproj - /u/DurianNinja
 
 ###Incomplete
-* de.lproj - /u/\_pixxaddict\_
 * he.lproj - /u/Aransh
 * ms.lproj - /u/redzrex
