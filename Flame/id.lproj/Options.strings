@@ -1,49 +1,49 @@
-"OPTIONS" = "Options";
+"OPTIONS" = "Pilihan";
 
-"APPLY_SETTINGS" = "Apply Settings";
-"APPLY_FOOTER" = "Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.";
+"APPLY_SETTINGS" = "Terapkan Pilihan";
+"APPLY_FOOTER" = "Hampir semua pilihan dapat berfungsi secara langsung, tetapi beberapa mengharuskan anda untuk menutup dan membuka kembali aplikasi Cydia";
 
-"DEFAULT_PAGE" = "Default Page";
-"HOME" = "Home";
-"SOURCES" = "Sources";
-"CHANGES" = "Changes";
-"INSTALLED" = "Installed";
-"SEARCH" = "Search";
-"DEFAULT_PAGE_FOOTER" = "Set the default page that Cydia opens to.";
+"DEFAULT_PAGE" = "Halaman Default";
+"HOME" = "Beranda";
+"SOURCES" = "Sumber";
+"CHANGES" = "Perubahan";
+"INSTALLED" = "Terinstal";
+"SEARCH" = "Cari";
+"DEFAULT_PAGE_FOOTER" = "Mengatur halaman default dimana Cydia akan menuju.";
 
-"AUTO_REFRESH_HEADER" = "Auto Refresh";
-"AUTO_REFRESH" = "Disable Auto Refresh";
-"AUTO_REFRESH_FOOTER" = "Prevent Cydia from automatically refreshing.";
+"AUTO_REFRESH_HEADER" = "Penyegaran Otomatis";
+"AUTO_REFRESH" = "Nonaktifkan penyegaran otomatis";
+"AUTO_REFRESH_FOOTER" = "Mencegah Cydia melakukan penyegaran secara otomatis";
 
 "TIMEOUT" = "Timeout";
-"SECONDS" = "Seconds:";
-"TIMEOUT_FOOTER" = "Force Cydia to only spend a specified number of seconds trying to refresh each source.";
+"SECONDS" = "Detik:";
+"TIMEOUT_FOOTER" = "Memaksa Cydia untuk melakukan penyegaran hanya pada waktu yang sudah ditentukan.";
 
-"BATCH_ADD" = "Batch Add";
-"BATCH_ADD_FOOTER" = "Add multiple repos at once by having them in your clipboard.";
+"BATCH_ADD" = "Tambah bertumpuk";
+"BATCH_ADD_FOOTER" = "Tambahkan banyak repo secara langsung dengan meletakkannya di clipboard";
 
-"CUSTOMIZE_UI_HEADER" = "Customize UI";
-"GLOBAL_TINT" = "Global Tint";
-"GLOBAL_TINT_COLOR" = "Global Tint Color:";
-"NAVBAR_COLOR" = "Navbar Color:";
-"NAVBAR_TITLE_COLOR" = "Navbar Title Color:";
-"TABBAR_COLOR" = "Tab Bar Color:";
-"TABBAR_SELECTED_COLOR" = "Tab Bar Selected Color:";
-"DARK_KEYBOARD" = "Dark Keyboard";
-"REMOVE_HOMEPAGE_ADS" = "Remove Homepage Ads";
+"CUSTOMIZE_UI_HEADER" = "Sesuaikan Antarmuka";
+"GLOBAL_TINT" = "Warna Keseluruhan";
+"GLOBAL_TINT_COLOR" = "Warna Keseluruhan:";
+"NAVBAR_COLOR" = "Warna Navbae:";
+"NAVBAR_TITLE_COLOR" = "Warna Judul Navbae:";
+"TABBAR_COLOR" = "Warna Bar Tab:";
+"TABBAR_SELECTED_COLOR" = "Warna Bar Tab Terpilih:";
+"DARK_KEYBOARD" = "Keyboard Gelap";
+"REMOVE_HOMEPAGE_ADS" = "Hilangkaj Iklan Beranda";
 
-"SEARCH_TAB_HEADER" = "Search Tab";
-"CANCEL_BUTTON" = "Cancel Button";
-"SWIPE_TO_DISMISS" = "Swipe to Dismiss";
-"SEARCH_TAB_FOOTER" = "Swipe down to dismiss the keyboard.";
+"SEARCH_TAB_HEADER" = "Tab Pencarian";
+"CANCEL_BUTTON" = "Tombol Batal";
+"SWIPE_TO_DISMISS" = "Geser untuk menghilangkan";
+"SEARCH_TAB_FOOTER" = "Tarik kebawah untuk menghilangkan keyboard.";
 
-"INSTALL_SCREEN_HEADER" = "Install Screen";
-"REMOVE_BUTTON_BORDER" = "Remove Button Border";
-"BUTTON_BORDER_COLOR" = "Button Border Color:";
-"BACKGROUND_COLOR" = "Background Color:";
+"INSTALL_SCREEN_HEADER" = "Layar Penerapan";
+"REMOVE_BUTTON_BORDER" = "Hilangkaj Border Tombol";
+"BUTTON_BORDER_COLOR" = "Warna border tombol:";
+"BACKGROUND_COLOR" = "Warna Latar:";
 
-"AUTOFINISH" = "Auto Finish";
-"VIBRATE" = "Vibrate";
-"AUTOFINISH_FOOTER" = "Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.";
+"AUTOFINISH" = "Selesai Otomatis";
+"VIBRATE" = "Getar";
+"AUTOFINISH_FOOTER" = "Secara otomatis melakukan Respring,Reboot, Kembali ke Cydia setelah waktu yang ditentukan";
 
-"SAVE" = "Save";
+"SAVE" = "Simpan";
