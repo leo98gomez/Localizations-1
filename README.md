@@ -15,6 +15,7 @@ Thank you very much!
 * es.lproj - /u/Q-Quan
 * hu.lproj - /u/benciikee
 * id.lproj - /u/kpratama24
+* it.lproj - andreags4
 * nb.lproj - kissorjeyabalan
 * nl.lproj - /u/Q-Quan
 * pl.lproj - lyratriescoding
