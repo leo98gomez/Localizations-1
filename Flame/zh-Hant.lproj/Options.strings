@@ -1,0 +1,49 @@
+﻿"OPTIONS" = "設定";
+
+"APPLY_SETTINGS" = "套用設定";
+"APPLY_FOOTER" = "大部分設定可以立即生效，但有一些需要重新啟動 Cydia 才能生效。";
+
+"DEFAULT_PAGE" = "預設頁面";
+"HOME" = "主畫面";
+"SOURCES" = "來源";
+"CHANGES" = "變更內容";
+"INSTALLED" = "已安裝";
+"SEARCH" = "搜尋";
+"DEFAULT_PAGE_FOOTER" = "選擇開啟 Cydia 時的預設頁面。";
+
+"AUTO_REFRESH_HEADER" = "自動重新整理";
+"AUTO_REFRESH" = "關閉自動重新整理";
+"AUTO_REFRESH_FOOTER" = "關閉開啟 Cydia 時自動重新整理。";
+
+"TIMEOUT" = "逾時設定";
+"SECONDS" = "秒：";
+"TIMEOUT_FOOTER" = "設定 Cydia 更新每個來源的逾時時間。";
+
+"BATCH_ADD" = "批次新增來源";
+"BATCH_ADD_FOOTER" = "一次新增多個在剪貼簿的來源。";
+
+"CUSTOMIZE_UI_HEADER" = "介面設定";
+"GLOBAL_TINT" = "整體渲染";
+"GLOBAL_TINT_COLOR" = "整體渲染顏色：";
+"NAVBAR_COLOR" = "導航欄顏色：";
+"NAVBAR_TITLE_COLOR" = "導航欄標題顏色：";
+"TABBAR_COLOR" = "標籤欄顏色：";
+"TABBAR_SELECTED_COLOR" = "標籤欄已選擇顏色：";
+"DARK_KEYBOARD" = "深色鍵盤";
+"REMOVE_HOMEPAGE_ADS" = "移除主頁廣告";
+
+"SEARCH_TAB_HEADER" = "搜索欄";
+"CANCEL_BUTTON" = "「取消」按鍵";
+"SWIPE_TO_DISMISS" = "滑動隱藏鍵盤";
+"SEARCH_TAB_FOOTER" = "向下滑動可隱藏鍵盤。";
+
+"INSTALL_SCREEN_HEADER" = "安裝頁面";
+"REMOVE_BUTTON_BORDER" = "移除按鍵邊框";
+"BUTTON_BORDER_COLOR" = "按鍵邊框顏色：";
+"BACKGROUND_COLOR" = "背景顏色：";
+
+"AUTOFINISH" = "自動完成";
+"VIBRATE" = "震動";
+"AUTOFINISH_FOOTER" = "依所設定的時間自動重啟主畫面、重開機或返回 Cydia。";
+
+"SAVE" = "儲存";

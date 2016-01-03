@@ -20,8 +20,9 @@ Thank you very much!
 * nl.lproj - /u/Q-Quan
 * pl.lproj - lyratriescoding
 * tr.lproj - /u/omerwwazap
-* zh_HK.lproj - /u/DurianNinja
-* zh_TW.lproj - /u/DurianNinja
+* zh-Hant.lproj - /u/darkj2k & /u/DurianNinja
+* zh-Hans.lproj - /u/darkj2k
+* zh_HK.lproj - /u/darkj2k & /u/DurianNinja
 
 ###Incomplete
 * he.lproj - /u/Aransh
