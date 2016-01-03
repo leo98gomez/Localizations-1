@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "導航欄標題顏色：";
 "TABBAR_COLOR" = "標籤欄顏色：";
 "TABBAR_SELECTED_COLOR" = "標籤欄已選擇顏色：";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "深色鍵盤";
 "REMOVE_HOMEPAGE_ADS" = "移除主頁廣告";
 

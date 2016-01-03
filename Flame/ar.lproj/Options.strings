@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "لون الكلمات في شريط التنقل:";
 "TABBAR_COLOR" = "لون شريط القائمة بالاسفل:";
 "TABBAR_SELECTED_COLOR" = "لون القائمة المحددة في الشريط بالاسفل:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "كيبورد اشود";
 "REMOVE_HOMEPAGE_ADS" = "إزالة إعلانات الصفحة الرئيسية";
 

@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "Navbar-Titel-Farbe:";
 "TABBAR_COLOR" = "Tab Bar-Farbe:";
 "TABBAR_SELECTED_COLOR" = "Tab Bar-Auswahl-Farbe:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Dunkle Tastatur";
 "REMOVE_HOMEPAGE_ADS" = "Werbung entfernen";
 

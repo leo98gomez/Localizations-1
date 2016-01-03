@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "צבע כותרת שורת ניווט:";
 "TABBAR_COLOR" = "צבע שורת כרטיסיות:";
 "TABBAR_SELECTED_COLOR" = "צבע בחירה בשורת כרטיסיות:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "מקלדת שחורה";
 "REMOVE_HOMEPAGE_ADS" = "הסר מודעות ממסך הבית";
 

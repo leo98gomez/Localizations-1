@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "Kolor Tytułu Paska Nawigacji:";
 "TABBAR_COLOR" = "Kolor Karty:";
 "TABBAR_SELECTED_COLOR" = "Kolor Wybranej Karty:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Ciemna Klawiatura";
 "REMOVE_HOMEPAGE_ADS" = "Usuń Reklamy z Karty Cydia";
 

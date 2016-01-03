@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "Kleur van de navigatiebalktitel:";
 "TABBAR_COLOR" = "Kleur van de tabbalk:";
 "TABBAR_SELECTED_COLOR" = "Kleur van geselecteerd tabblad:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Donker toetsenbord";
 "REMOVE_HOMEPAGE_ADS" = "Startpaginaadvertenties weghalen";
 

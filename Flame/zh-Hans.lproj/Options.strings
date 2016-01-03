@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "导航栏标题颜色：";
 "TABBAR_COLOR" = "标签栏颜色：";
 "TABBAR_SELECTED_COLOR" = "标签栏已选择颜色：";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "深色键盘";
 "REMOVE_HOMEPAGE_ADS" = "移除主页广告";
 

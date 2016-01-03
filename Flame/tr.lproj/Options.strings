@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "Navbar Başlık Rengi:";
 "TABBAR_COLOR" = "Tab Bar Rengi:";
 "TABBAR_SELECTED_COLOR" = "Tab Bar Seçilen Rengi:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Siyah Klavye";
 "REMOVE_HOMEPAGE_ADS" = "Reklam Engelleme";
 

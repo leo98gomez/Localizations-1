@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "Color del títol de navegació:";
 "TABBAR_COLOR" = "Color de la barra de pestanyes:";
 "TABBAR_SELECTED_COLOR" = "Color de la barra de pestanyes:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Teclat fosc";
 "REMOVE_HOMEPAGE_ADS" = "Treure anuncis de la pàgina d'inici";
 

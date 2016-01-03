@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "Color del título de navegación:";
 "TABBAR_COLOR" = "Color de la barra de pestañas:";
 "TABBAR_SELECTED_COLOR" = "Color de la pestaña seleccionada:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Teclado oscuro";
 "REMOVE_HOMEPAGE_ADS" = "Eliminar anuncios de la página de inicio";
 

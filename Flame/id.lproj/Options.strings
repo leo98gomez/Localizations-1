@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "Warna Judul Navbae:";
 "TABBAR_COLOR" = "Warna Bar Tab:";
 "TABBAR_SELECTED_COLOR" = "Warna Bar Tab Terpilih:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Keyboard Gelap";
 "REMOVE_HOMEPAGE_ADS" = "Hilangkaj Iklan Beranda";
 

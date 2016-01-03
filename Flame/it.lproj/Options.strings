@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "Colore Titolo della Barra di Navigazione:";
 "TABBAR_COLOR" = "Colore Barra Schede:";
 "TABBAR_SELECTED_COLOR" = "Colore Scheda Selezionata:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Tastiera Nera";
 "REMOVE_HOMEPAGE_ADS" = "Rimuovi Pubblicità nella Homepage";
 

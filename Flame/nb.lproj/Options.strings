@@ -29,6 +29,7 @@
 "NAVBAR_TITLE_COLOR" = "Navbar Tittel Farge:";
 "TABBAR_COLOR" = "Tab Bar Farge:";
 "TABBAR_SELECTED_COLOR" = "Tab Bar Valgt Farge:";
+"LIGHT_STATUS_BAR" = "Light Status Bar";
 "DARK_KEYBOARD" = "Mørk Tastatur";
 "REMOVE_HOMEPAGE_ADS" = "Fjern Hjemmeside Annonser";
 
