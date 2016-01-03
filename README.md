@@ -11,7 +11,7 @@ Thank you very much!
 ##Flame
 
 ###Completed
-* None
+* hu - /u/benciikee
 
 ###Incomplete
 * ar - Abo-bs
@@ -19,7 +19,6 @@ Thank you very much!
 * de - /u/\_pixxaddict\_
 * es - /u/Q-Quan
 * he - /u/Aransh
-* hu - /u/benciikee
 * id - /u/kpratama24
 * it - andreags4
 * ms - /u/redzrex
