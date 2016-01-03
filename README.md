@@ -2,6 +2,8 @@
 
 To localize a tweak, just download the respective .lproj folder, translate the items that are not capitalized, and make a pull request (or email: adit@aditkamath.com).
 
+To see what language each .lproj folder corresponds to, check [here](http://www.ibabbleon.com/iOS-Language-Codes-ISO-639.html).
+
 Thank you very much!
 
 #Translation Status
@@ -9,21 +11,21 @@ Thank you very much!
 ##Flame
 
 ###Completed
-* ar.lproj - Abo-bs
-* ca.lproj - /u/Q-Quan
-* de.lproj - /u/\_pixxaddict\_
-* es.lproj - /u/Q-Quan
-* hu.lproj - /u/benciikee
-* id.lproj - /u/kpratama24
-* it.lproj - andreags4
-* nb.lproj - kissorjeyabalan
-* nl.lproj - /u/Q-Quan
-* pl.lproj - lyratriescoding
-* tr.lproj - /u/omerwwazap
-* zh-Hant.lproj - /u/darkj2k & /u/DurianNinja
-* zh-Hans.lproj - /u/darkj2k
-* zh_HK.lproj - /u/darkj2k & /u/DurianNinja
+* ar - Abo-bs
+* ca - /u/Q-Quan
+* de - /u/\_pixxaddict\_
+* es - /u/Q-Quan
+* hu - /u/benciikee
+* id - /u/kpratama24
+* it - andreags4
+* nb - kissorjeyabalan
+* nl - /u/Q-Quan
+* pl - lyratriescoding
+* tr - /u/omerwwazap
+* zh-Hant - /u/darkj2k & /u/DurianNinja
+* zh-Hans - /u/darkj2k
+* zh_HK - /u/darkj2k & /u/DurianNinja
 
 ###Incomplete
-* he.lproj - /u/Aransh
-* ms.lproj - /u/redzrex
+* he - /u/Aransh
+* ms - /u/redzrex
