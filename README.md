@@ -12,6 +12,7 @@ Thank you very much!
 
 ###Completed
 * hu - /u/benciikee
+* it - andreags4
 
 ###Incomplete
 * ar - Abo-bs
@@ -20,7 +21,6 @@ Thank you very much!
 * es - /u/Q-Quan
 * he - /u/Aransh
 * id - /u/kpratama24
-* it - andreags4
 * ms - /u/redzrex
 * nb - kissorjeyabalan
 * nl - /u/Q-Quan
