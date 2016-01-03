@@ -3,6 +3,14 @@
 "APPLY_SETTINGS" = "Ubah Pertukaran";
 "APPLY_FOOTER" = "Kebanyakkan pilihan boleh diubah secara langsung, tapi beberapa pilihan memerlukan Cydia dibuka semula untuk perubahan berlaku.";
 
+"DEFAULT_PAGE" = "Default Page";
+"HOME" = "Home";
+"SOURCES" = "Sources";
+"CHANGES" = "Changes";
+"INSTALLED" = "Installed";
+"SEARCH" = "Search";
+"DEFAULT_PAGE_FOOTER" = "Set the default page that Cydia opens to.";
+
 "AUTO_REFRESH_HEADER" = "Refresh Sendiri";
 "AUTO_REFRESH" = "Mansuhkan Refresh Sendiri";
 "AUTO_REFRESH_FOOTER" = "Halang Cydia dari refresh dengan sendiri.";
