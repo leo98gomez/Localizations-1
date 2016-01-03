@@ -26,15 +26,15 @@
 "GLOBAL_TINT" = "Tinta Globale";
 "GLOBAL_TINT_COLOR" = "Colore Tinta Globale:";
 "NAVBAR_COLOR" = "Colore Barra di Navigazione:";
-"NAVBAR_TITLE_COLOR" = "Colore Titolo della Barra di Navigazione:";
+"NAVBAR_TITLE_COLOR" = "Colore Titolo Barra Navigazione:";
 "TABBAR_COLOR" = "Colore Barra Schede:";
 "TABBAR_SELECTED_COLOR" = "Colore Scheda Selezionata:";
-"LIGHT_STATUS_BAR" = "Light Status Bar";
+"LIGHT_STATUS_BAR" = "Barra di Stato Chiara";
 "DARK_KEYBOARD" = "Tastiera Nera";
-"REMOVE_HOMEPAGE_ADS" = "Rimuovi Pubblicità nella Homepage";
+"REMOVE_HOMEPAGE_ADS" = "Rimuovi Pubblicità Homepage";
 
-"SEARCH_TAB_HEADER" = "Scheda Cerca";
-"CANCEL_BUTTON" = "Tasto Cancella";
+"SEARCH_TAB_HEADER" = "Pagina Ricerca";
+"CANCEL_BUTTON" = "Tasto Annulla";
 "SWIPE_TO_DISMISS" = "Scorri per Nascondere";
 "SEARCH_TAB_FOOTER" = "Scorri verso il basso per nascondere la tastiera.";
 
