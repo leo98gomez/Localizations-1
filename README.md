@@ -6,17 +6,22 @@ To see what language each .lproj folder corresponds to, check [here](http://www.
 
 Thank you very much!
 
+&nbsp;
+
 #Translation Status
+
 
 ##Flame
 
-###Completed
+**Completed**
+
 * hu - /u/benciikee
 * it - andreags4
 * fr - /u/-MTAC-
 * ru - 25element
 
-###Incomplete
+**Incomplete**
+
 * ar - Abo-bs
 * ca - /u/Q-Quan
 * de - /u/\_pixxaddict\_
