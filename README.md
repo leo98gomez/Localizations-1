@@ -13,6 +13,8 @@ Thank you very much!
 ###Completed
 * hu - /u/benciikee
 * it - andreags4
+* fr - /u/-MTAC-
+* ru - 25element
 
 ###Incomplete
 * ar - Abo-bs

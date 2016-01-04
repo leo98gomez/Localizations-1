@@ -1,50 +1,50 @@
-"OPTIONS" = "Options";
+"OPTIONS" = "Les Choix";
 
-"APPLY_SETTINGS" = "Apply Settings";
-"APPLY_FOOTER" = "Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.";
+"APPLY_SETTINGS" = "Appliquer";
+"APPLY_FOOTER" = "Beaucoup d'options sont immédiats, sinon recommencer Cydia";
 
-"DEFAULT_PAGE" = "Default Page";
-"HOME" = "Home";
-"SOURCES" = "Sources";
-"CHANGES" = "Changes";
-"INSTALLED" = "Installed";
-"SEARCH" = "Search";
-"DEFAULT_PAGE_FOOTER" = "Set the default page that Cydia opens to.";
+"DEFAULT_PAGE" = "Page par défaut";
+"HOME" = "Accueil";
+"SOURCES" = "Les Sources";
+"CHANGES" = "Changements";
+"INSTALLED" = "Installé";
+"SEARCH" = "Recherche";
+"DEFAULT_PAGE_FOOTER" = "Définissez la page qui ouvre la première.";
 
-"AUTO_REFRESH_HEADER" = "Auto Refresh";
-"AUTO_REFRESH" = "Disable Auto Refresh";
-"AUTO_REFRESH_FOOTER" = "Prevent Cydia from automatically refreshing.";
+"AUTO_REFRESH_HEADER" = "Actualisation Automatique";
+"AUTO_REFRESH" = "Actualisation automatique désactiver";
+"AUTO_REFRESH_FOOTER" = "Empêcher actualisation automatique.";
 
-"TIMEOUT" = "Timeout";
-"SECONDS" = "Seconds:";
-"TIMEOUT_FOOTER" = "Force Cydia to only spend a specified number of seconds trying to refresh each source.";
+"TIMEOUT" = "Temps libre";
+"SECONDS" = "Secondes:";
+"TIMEOUT_FOOTER" = "Cydia forcer à prendre un certain nombre de secondes pour actualiser.";
 
-"BATCH_ADD" = "Batch Add";
-"BATCH_ADD_FOOTER" = "Add multiple repos at once by having them in your clipboard.";
+"BATCH_ADD" = "Ajouter par lot";
+"BATCH_ADD_FOOTER" = "Ajouter plusieurs repos à la fois.";
 
-"CUSTOMIZE_UI_HEADER" = "Customize UI";
-"GLOBAL_TINT" = "Global Tint";
-"GLOBAL_TINT_COLOR" = "Global Tint Color:";
-"NAVBAR_COLOR" = "Navbar Color:";
-"NAVBAR_TITLE_COLOR" = "Navbar Title Color:";
-"TABBAR_COLOR" = "Tab Bar Color:";
-"TABBAR_SELECTED_COLOR" = "Tab Bar Selected Color:";
-"LIGHT_STATUS_BAR" = "Light Status Bar";
-"DARK_KEYBOARD" = "Dark Keyboard";
-"REMOVE_HOMEPAGE_ADS" = "Remove Homepage Ads";
+"CUSTOMIZE_UI_HEADER" = "Personnaliser UI";
+"GLOBAL_TINT" = "Teinte Universelle";
+"GLOBAL_TINT_COLOR" = "Couleur de teinte:";
+"NAVBAR_COLOR" = "Couler de Navbar:";
+"NAVBAR_TITLE_COLOR" = "Couler du titre de la navbar:";
+"TABBAR_COLOR" = "Couler du barre d'onglets:";
+"TABBAR_SELECTED_COLOR" = "La couleur de l'onglet choisi:";
+"LIGHT_STATUS_BAR" = "Barre d'état douce";
+"DARK_KEYBOARD" = "Clavier noir";
+"REMOVE_HOMEPAGE_ADS" = "Pas de pubs";
 
-"SEARCH_TAB_HEADER" = "Search Tab";
-"CANCEL_BUTTON" = "Cancel Button";
-"SWIPE_TO_DISMISS" = "Swipe to Dismiss";
-"SEARCH_TAB_FOOTER" = "Swipe down to dismiss the keyboard.";
+"SEARCH_TAB_HEADER" = "Onglet de recherche";
+"CANCEL_BUTTON" = "Bouton d'annulation";
+"SWIPE_TO_DISMISS" = "Glisser de rejeter";
+"SEARCH_TAB_FOOTER" = "Glisser pour masquer le clavier.";
 
-"INSTALL_SCREEN_HEADER" = "Install Screen";
-"REMOVE_BUTTON_BORDER" = "Remove Button Border";
-"BUTTON_BORDER_COLOR" = "Button Border Color:";
-"BACKGROUND_COLOR" = "Background Color:";
+"INSTALL_SCREEN_HEADER" = "Écran d'installation";
+"REMOVE_BUTTON_BORDER" = "Supprimer bouton frontière";
+"BUTTON_BORDER_COLOR" = "Couleur de la frontière du bouton:";
+"BACKGROUND_COLOR" = "Couleur de fond:";
 
-"AUTOFINISH" = "Auto Finish";
-"VIBRATE" = "Vibrate";
-"AUTOFINISH_FOOTER" = "Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.";
+"AUTOFINISH" = "Finir automatiquement";
+"VIBRATE" = "Vibrer";
+"AUTOFINISH_FOOTER" = "Resprings automatiquement, redémarre, ou retourne à Cydia.";
 
-"SAVE" = "Save";
+"SAVE" = "Sauver";
