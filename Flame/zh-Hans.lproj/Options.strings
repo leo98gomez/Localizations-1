@@ -11,13 +11,12 @@
 "SEARCH" = "搜索";
 "DEFAULT_PAGE_FOOTER" = "选择开启 Cydia 时的预设页面。";
 
-"AUTO_REFRESH_HEADER" = "自动刷新";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "关闭自动刷新";
-"AUTO_REFRESH_FOOTER" = "关闭开启 Cydia 时自动刷新。";
-
 "TIMEOUT" = "逾时设定";
 "SECONDS" = "秒：";
-"TIMEOUT_FOOTER" = "设置 Cydia 刷新每个软件源的逾时时间。";
+"REFRESH_FOOTER" = "设置 Cydia 刷新每个软件源的逾时时间。";
 
 "BATCH_ADD" = "批次添加来源";
 "BATCH_ADD_FOOTER" = "一次添加多个在剪贴簿的软件源。";

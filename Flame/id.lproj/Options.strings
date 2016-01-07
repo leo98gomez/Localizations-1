@@ -11,13 +11,12 @@
 "SEARCH" = "Cari";
 "DEFAULT_PAGE_FOOTER" = "Mengatur halaman default dimana Cydia akan menuju.";
 
-"AUTO_REFRESH_HEADER" = "Penyegaran Otomatis";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "Nonaktifkan penyegaran otomatis";
-"AUTO_REFRESH_FOOTER" = "Mencegah Cydia melakukan penyegaran secara otomatis";
-
 "TIMEOUT" = "Timeout";
 "SECONDS" = "Detik:";
-"TIMEOUT_FOOTER" = "Memaksa Cydia untuk melakukan penyegaran hanya pada waktu yang sudah ditentukan.";
+"REFRESH_FOOTER" = "Memaksa Cydia untuk melakukan penyegaran hanya pada waktu yang sudah ditentukan.";
 
 "BATCH_ADD" = "Tambah bertumpuk";
 "BATCH_ADD_FOOTER" = "Tambahkan banyak repo secara langsung dengan meletakkannya di clipboard";

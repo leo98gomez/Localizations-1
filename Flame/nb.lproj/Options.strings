@@ -11,13 +11,12 @@
 "SEARCH" = "Søk";
 "DEFAULT_PAGE_FOOTER" = "Angi standadr side som Cydia åpnes til.";
 
-"AUTO_REFRESH_HEADER" = "Auto Oppdater";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "Deaktiver autoppdatering";
-"AUTO_REFRESH_FOOTER" = "Forhindrer Cydia fra å oppdatere automatisk.";
-
 "TIMEOUT" = "Tidsavbrudd";
 "SECONDS" = "Sekunder:";
-"TIMEOUT_FOOTER" = "Tving Cydia til å bruke bestemt antall sekunder på hver kilde som oppdateres.";
+"REFRESH_FOOTER" = "Tving Cydia til å bruke bestemt antall sekunder på hver kilde som oppdateres.";
 
 "BATCH_ADD" = "Batch Add";
 "BATCH_ADD_FOOTER" = "Legg til flere repo samtidig ved å ha dem i utklippstavlen din.";

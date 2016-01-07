@@ -11,13 +11,12 @@
 "SEARCH" = "Search";
 "DEFAULT_PAGE_FOOTER" = "Set the default page that Cydia opens to.";
 
-"AUTO_REFRESH_HEADER" = "ריענון אוטומט";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "כבה ריענון אוטומטי";
-"AUTO_REFRESH_FOOTER" = "מונע מסידיה לרענן אוטומטית.";
-
 "TIMEOUT" = "הגבלת זמ";
 "SECONDS" = "שניות:";
-"TIMEOUT_FOOTER" = "מכריח את סידיה לאפשר רק מספר שניות מוגדר לרענון כל מקור.";
+"REFRESH_FOOTER" = "מכריח את סידיה לאפשר רק מספר שניות מוגדר לרענון כל מקור.";
 
 "BATCH_ADD" = "הוספה מרובה";
 "BATCH_ADD_FOOTER" = "מוסיף מספר מקורות בבת אחת בכך שהם מועתקים מראש.";

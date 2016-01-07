@@ -11,13 +11,12 @@
 "SEARCH" = "Szukaj";
 "DEFAULT_PAGE_FOOTER" = "Ustaw domyślną stronę, do której otworzy się Cydia.";
 
-"AUTO_REFRESH_HEADER" = "Automatyczne Odświeżanie";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "Wyłącz Automatyczne Odświeżanie";
-"AUTO_REFRESH_FOOTER" = "Powstrzymaj Cydię przed automatycznym odświeżaniem.";
-
 "TIMEOUT" = "Limit Czasu";
 "SECONDS" = "Sekund:";
-"TIMEOUT_FOOTER" = "Wymuś limit czasu, który Cydia poświęci na odświeżenie każdego źródła.";
+"REFRESH_FOOTER" = "Wymuś limit czasu, który Cydia poświęci na odświeżenie każdego źródła.";
 
 "BATCH_ADD" = "Dodawanie Partią";
 "BATCH_ADD_FOOTER" = "Dodaj więcej repozytoriów na raz przez posiadanie ich adresów w schowku.";

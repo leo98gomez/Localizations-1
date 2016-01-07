@@ -11,13 +11,12 @@
 "SEARCH" = "Cerca";
 "DEFAULT_PAGE_FOOTER" = "Quan s'obri el Cydia es mostrarà la pàgina seleccionada.";
 
-"AUTO_REFRESH_HEADER" = "Refresc automàtic";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "Desactivar el refresc automàtic";
-"AUTO_REFRESH_FOOTER" = "Fer que el Cydia no es refresqui automàticament.";
-
 "TIMEOUT" = "Temps d'espera";
 "SECONDS" = "Segons:";
-"TIMEOUT_FOOTER" = "Forçar el Cydia a no estar-se més d'un determinat nombre de segons refrescant cada font.";
+"REFRESH_FOOTER" = "Forçar el Cydia a no estar-se més d'un determinat nombre de segons refrescant cada font.";
 
 "BATCH_ADD" = "Afegir en grup";
 "BATCH_ADD_FOOTER" = "Afegir més d'un repositori a la vegada tenint-los al porta-retalls.";

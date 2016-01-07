@@ -11,13 +11,12 @@
 "SEARCH" = "Cerca";
 "DEFAULT_PAGE_FOOTER" = "Imposta la pagina da visualizzare all'avvio di Cydia.";
 
-"AUTO_REFRESH_HEADER" = "Aggiornamento Automatico";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "Disattiva Aggiornamento Automatico";
-"AUTO_REFRESH_FOOTER" = "Impedisce a Cydia di aggiornarsi automaticamente.";
-
 "TIMEOUT" = "Timeout";
 "SECONDS" = "Secondi:";
-"TIMEOUT_FOOTER" = "Costringe Cydia a spendere un certo numero di secondi per l'aggiornamento di ogni sorgente.";
+"REFRESH_FOOTER" = "Costringe Cydia a spendere un certo numero di secondi per l'aggiornamento di ogni sorgente.";
 
 "BATCH_ADD" = "Aggiunta Di Gruppo";
 "BATCH_ADD_FOOTER" = "Aggiunge più sorgenti contemporaneamente in base a quelle copiate nei tuoi appunti.";

@@ -11,13 +11,12 @@
 "SEARCH" = "Buscar";
 "DEFAULT_PAGE_FOOTER" = "Cuando se abre Cydia se verá la página seleccionada.";
 
-"AUTO_REFRESH_HEADER" = "Refresco automático";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "Deshabilitar el refreso automático";
-"AUTO_REFRESH_FOOTER" = "Hacer que Cydia no refresque automáticamente.";
-
 "TIMEOUT" = "Tiempo de espera";
 "SECONDS" = "Segundos:";
-"TIMEOUT_FOOTER" = "Forzar Cydia a no estarse más de un determinado número de segundos refrescando cada fuente.";
+"REFRESH_FOOTER" = "Forzar Cydia a no estarse más de un determinado número de segundos refrescando cada fuente.";
 
 "BATCH_ADD" = "Añadir múltiples";
 "BATCH_ADD_FOOTER" = "Añadir más de un repositorio a la vez teniéndolos el portapapeles.";

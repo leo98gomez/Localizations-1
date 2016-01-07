@@ -11,13 +11,12 @@
 "SEARCH" = "Recherche";
 "DEFAULT_PAGE_FOOTER" = "Définissez la page qui ouvre la première.";
 
-"AUTO_REFRESH_HEADER" = "Actualisation Automatique";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "Actualisation automatique désactiver";
-"AUTO_REFRESH_FOOTER" = "Empêcher actualisation automatique.";
-
 "TIMEOUT" = "Temps libre";
 "SECONDS" = "Secondes:";
-"TIMEOUT_FOOTER" = "Cydia forcer à prendre un certain nombre de secondes pour actualiser.";
+"REFRESH_FOOTER" = "Cydia forcer à prendre un certain nombre de secondes pour actualiser.";
 
 "BATCH_ADD" = "Ajouter par lot";
 "BATCH_ADD_FOOTER" = "Ajouter plusieurs repos à la fois.";

@@ -11,13 +11,12 @@
 "SEARCH" = "Keresés";
 "DEFAULT_PAGE_FOOTER" = "Állítsd be azt az oldalt, amellyel induljon a Cydia.";
 
-"AUTO_REFRESH_HEADER" = "Automatikus frissítés";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "Automatikus Frissítés Kikapcsolás";
-"AUTO_REFRESH_FOOTER" = "Automatikus Frissítés tiltása a Cydia-ban.";
-
 "TIMEOUT" = "Frissítési idõ";
 "SECONDS" = "Másodperc:";
-"TIMEOUT_FOOTER" = "A Cydia kényszerítése arra, hogy csak a megadott idõ alatt próbálja frissíteni a forrásokat.";
+"REFRESH_FOOTER" = "A Cydia kényszerítése arra, hogy csak a megadott idõ alatt próbálja frissíteni a forrásokat.";
 
 "BATCH_ADD" = "Többszörös hozzáadás";
 "BATCH_ADD_FOOTER" = "Több repo hozzáadása egyszerre a vágólapról.";

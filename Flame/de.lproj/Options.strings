@@ -11,13 +11,12 @@
 "SEARCH" = "Suche";
 "DEFAULT_PAGE_FOOTER" = "Legt den Standard-Tab fest, der beim Start von Cydia als erstes angezeigt werden soll.";
 
-"AUTO_REFRESH_HEADER" = "Automatische Aktualisierung";
+"REFRESH_HEADER" = "Refresh Settings";
+"PULL_TO_REFRESH" = "Pull to Refresh";
 "AUTO_REFRESH" = "'Auto-Refresh' deaktivieren";
-"AUTO_REFRESH_FOOTER" = "Verhindert die automatische Datenaktualisierung in Cydia.";
-
 "TIMEOUT" = "Timeout";
 "SECONDS" = "Sekunden:";
-"TIMEOUT_FOOTER" = "Gibt die Dauer in Sekunden an, während der Cydia versucht, eine Quelle zu aktualisieren.";
+"REFRESH_FOOTER" = "Gibt die Dauer in Sekunden an, während der Cydia versucht, eine Quelle zu aktualisieren.";
 
 "BATCH_ADD" = "Mehrfaches Hinzufügen";
 "BATCH_ADD_FOOTER" = "Erlaubt das Hinzufügen von mehreren Quellen auf einmal, wenn sich diese in der Zwischenablage befinden.";
