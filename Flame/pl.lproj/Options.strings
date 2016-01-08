@@ -11,8 +11,8 @@
 "SEARCH" = "Szukaj";
 "DEFAULT_PAGE_FOOTER" = "Ustaw domyślną stronę, do której otworzy się Cydia.";
 
-"REFRESH_HEADER" = "Refresh Settings";
-"PULL_TO_REFRESH" = "Pull to Refresh";
+"REFRESH_HEADER" = "Ustawienia Odświeżania";
+"PULL_TO_REFRESH" = "Pociągnij Aby Odświeżyć";
 "AUTO_REFRESH" = "Wyłącz Automatyczne Odświeżanie";
 "TIMEOUT" = "Limit Czasu";
 "SECONDS" = "Sekund:";
