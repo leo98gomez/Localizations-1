@@ -15,7 +15,10 @@ Thank you very much!
 
 **Completed**
 
-* None
+* hu - /u/benciikee
+* pl - lyratriescoding
+* zh-Hans - /u/darkj2k
+* zh-HK - /u/darkj2k & /u/DurianNinja
 
 **Incomplete**
 
@@ -25,15 +28,11 @@ Thank you very much!
 * es - /u/Q-Quan
 * fr - /u/-MTAC-
 * he - /u/Aransh
-* hu - /u/benciikee
 * id - /u/kpratama24
 * it - andreags4
 * ms - /u/redzrex
 * nb - kissorjeyabalan
 * nl - /u/Q-Quan
-* pl - lyratriescoding
 * ru - 25element
 * tr - /u/omerwwazap
 * zh-Hant - /u/darkj2k & /u/DurianNinja
-* zh-Hans - /u/darkj2k
-* zh_HK - /u/darkj2k & /u/DurianNinja
