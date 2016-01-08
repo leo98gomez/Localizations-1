@@ -12,7 +12,7 @@
 "DEFAULT_PAGE_FOOTER" = "Állítsd be azt az oldalt, amellyel induljon a Cydia.";
 
 "REFRESH_HEADER" = "Frissítési beállítások";
-"PULL_TO_REFRESH" = "Frissítés lehúzással;
+"PULL_TO_REFRESH" = "Frissítés lehúzással";
 "AUTO_REFRESH" = "Automatikus Frissítés Kikapcsolás";
 "TIMEOUT" = "Frissítési idõ";
 "SECONDS" = "Másodperc:";
