@@ -16,6 +16,7 @@ Thank you very much!
 **Completed**
 
 * hu - /u/benciikee
+* fi - /u/Shiningtoaster
 * pl - lyratriescoding
 * zh-Hans - /u/darkj2k
 * zh-HK - /u/darkj2k & /u/DurianNinja

@@ -1,49 +1,49 @@
-"OPTIONS" = "Options";
+"OPTIONS" = "Asetukset";
 
-"APPLY_SETTINGS" = "Apply Settings";
-"APPLY_FOOTER" = "Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.";
+"APPLY_SETTINGS" = "Käytä asetuksia";
+"APPLY_FOOTER" = "Suurin osa muutoksista astuu heti voimaan, mutta osa vaatii Cydian uudelleenkäynnistyksen.";
 
-"DEFAULT_PAGE" = "Default Page";
-"HOME" = "Home";
-"SOURCES" = "Sources";
-"CHANGES" = "Changes";
-"INSTALLED" = "Installed";
-"SEARCH" = "Search";
-"DEFAULT_PAGE_FOOTER" = "Set the default page that Cydia opens to.";
+"DEFAULT_PAGE" = "Aloitussivu";
+"HOME" = "Koti";
+"SOURCES" = "Repot";
+"CHANGES" = "Muutokset";
+"INSTALLED" = "Asennetut";
+"SEARCH" = "Haku";
+"DEFAULT_PAGE_FOOTER" = "Valitse aloitussivu Cydian käynnistyessä.";
 
-"REFRESH_HEADER" = "Refresh Settings";
-"PULL_TO_REFRESH" = "Pull to Refresh";
-"AUTO_REFRESH" = "Disable Auto Refresh";
-"TIMEOUT" = "Timeout";
-"SECONDS" = "Seconds:";
-"REFRESH_FOOTER" = "Force Cydia to only spend a specified number of seconds trying to refresh each source.";
+"REFRESH_HEADER" = "Sivunpäivitysasetukset";
+"PULL_TO_REFRESH" = "Vedä päivittääksesi sivu";
+"AUTO_REFRESH" = "Estä automaattiset sivunpäivitykset";
+"TIMEOUT" = "Aikakatkaisu";
+"SECONDS" = "Sekuntia:";
+"REFRESH_FOOTER" = "Pakota Cydia lopettamaan repojen päivitys tietyn sekuntimäärän kuluttua.";
 
-"BATCH_ADD" = "Batch Add";
-"BATCH_ADD_FOOTER" = "Add multiple repos at once by having them in your clipboard.";
+"BATCH_ADD" = "Yhtäaikainen lisäys";
+"BATCH_ADD_FOOTER" = "Lisää useita repoja yhtä aikaa kopioimalla ja liittämällä.";
 
-"CUSTOMIZE_UI_HEADER" = "Customize UI";
-"GLOBAL_TINT" = "Global Tint";
-"GLOBAL_TINT_COLOR" = "Global Tint Color:";
-"NAVBAR_COLOR" = "Navbar Color:";
-"NAVBAR_TITLE_COLOR" = "Navbar Title Color:";
-"TABBAR_COLOR" = "Tab Bar Color:";
-"TABBAR_SELECTED_COLOR" = "Tab Bar Selected Color:";
-"LIGHT_STATUS_BAR" = "Light Status Bar";
-"DARK_KEYBOARD" = "Dark Keyboard";
-"REMOVE_HOMEPAGE_ADS" = "Remove Homepage Ads";
+"CUSTOMIZE_UI_HEADER" = "Mukauta käyttöliittymää";
+"GLOBAL_TINT" = "Yleinen väri";
+"GLOBAL_TINT_COLOR" = "Valitse yleinen väri:";
+"NAVBAR_COLOR" = "Yläpalkin väri:";
+"NAVBAR_TITLE_COLOR" = "Yläpalkin otsikon väri:";
+"TABBAR_COLOR" = "Alapalkin väri:";
+"TABBAR_SELECTED_COLOR" = "Valitun alapalkin väri:";
+"LIGHT_STATUS_BAR" = "Vaalea tilapalkki";
+"DARK_KEYBOARD" = "Tumma näppäimistö";
+"REMOVE_HOMEPAGE_ADS" = "Poista kotinäkymän mainokset";
 
-"SEARCH_TAB_HEADER" = "Search Tab";
-"CANCEL_BUTTON" = "Cancel Button";
-"SWIPE_TO_DISMISS" = "Swipe to Dismiss";
-"SEARCH_TAB_FOOTER" = "Swipe down to dismiss the keyboard.";
+"SEARCH_TAB_HEADER" = "Hakupalkki";
+"CANCEL_BUTTON" = "Peru-näppäin";
+"SWIPE_TO_DISMISS" = "Pyyhkäise piilottaaksesi";
+"SEARCH_TAB_FOOTER" = "Pyyhkäise alas piilottaaksesi näppäimistön.";
 
-"INSTALL_SCREEN_HEADER" = "Install Screen";
-"REMOVE_BUTTON_BORDER" = "Remove Button Border";
-"BUTTON_BORDER_COLOR" = "Button Border Color:";
-"BACKGROUND_COLOR" = "Background Color:";
+"INSTALL_SCREEN_HEADER" = "Asennusruutu";
+"REMOVE_BUTTON_BORDER" = "Poista painikkeen raja";
+"BUTTON_BORDER_COLOR" = "Painikkeen rajan väri:";
+"BACKGROUND_COLOR" = "Taustan väri:";
 
-"AUTOFINISH" = "Auto Finish";
-"VIBRATE" = "Vibrate";
-"AUTOFINISH_FOOTER" = "Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.";
+"AUTOFINISH" = "Automaattinen viimeistely";
+"VIBRATE" = "Värinä";
+"AUTOFINISH_FOOTER" = "Automaattinen respring, uudelleenkäynnistys tai Cydiaan paluu tietyn sekuntimäärän jälkeen.";
 
-"SAVE" = "Save";
+"SAVE" = "Tallenna";
